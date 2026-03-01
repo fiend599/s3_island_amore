@@ -1,1953 +1,321 @@
 # #########################################################################
-# ## Episode 9 Part 1
-# #########################################################################
-# "Previously on Love Island..."
-# "There was a recoupling and..."
-# "MC and Bill/Harry/Camilo/AJ/Ciaran/Tai/Yasmin coupled up!"
-# s3_mc "The person I want to couple up with is..."
-# s3_mc "Bill/Harry/Camilo/AJ/Ciaran/Tai/Yasmin!"
-# "Everything is on the up..."
-# "The Islanders wake up."
-# Liona "Morning, gorgeous."
-# "And Ciaran thinks the others are making stuff up..."
-# ciaran "What on earth is brunch?"
-# "Poor sweet Ciaran."
-# "I'd cook you avocado toast any day of the week."
-# "If I had avocados. Or a toaster."
-# "But you know what they say. What goes up..."
-# bff "But are they loyal?"
-# "Must come down..."
-# bff "I got a text!"
-
-# You wipe away the sleep in your eyes.
-# (Scene with Ciaran/Tai/Camilo/AJ):
-# Tai/Ciaran/Camilo/AJ is tickling your nose with a feather.
-# s3_mc "Ah, aah..."
-# s3_mc "Choo!"
-# You sneeze.
-# C/T/Cam/aj "Oops."
-# C/T/Cam/aj "Sorry!"
-# C/T/Cam/aj "I just really wanted to wake you up with this feather."
-# C/T/Cam/aj "It was stuck to you for ages and I just kept thinking of how much of an angel you were."
-# s3_mc "So, you stuck it up my nose?"
-# C/T/Cam/aj "Yeah..."
-# Choiceseb "Tai/Ciaran/Camilo/AJ says I'm an angel."
-# -Say some cheesy chat up line
-# You peer around Tai's/Ciaran's/Camilo's/AJ's neck.
-# C/T/Cam/aj "What are you doing?"
-# s3_mc "Looking for the 'made in heaven' tag."
-# C/T/Cam/aj "Is that a ladder in your tights or a stairway to heaven? (you get 😍 Tai/Ciaran/Camilo/AJ)"
-# You stick your tongue out at Tai/Ciaran/Camilo/AJ.
-# s3_mc "I'm not wearing any tights."
-# C/T/Cam/aj "It's still funny."
-
-# -Stick the feather up Ciaran's/Tai's/Camilo's/AJ's nose
-# You grab the feather out of Ciaran's/Tai's/Camilo's/AJ's hand and tickle [him_her] right on the nose.
-# C/T/Cam/aj "Ah, aah!"
-# C/T/Cam/aj "Choo!"
-# Nicky walks in and grabs his water bottle.
-# nicky "Does someone keep sneezing in here?"
-# C/T/Cam/aj "Yes, that would be us."
-# C/T/Cam/aj "We're making each other sneeze because it's a cute thing to do."
-# nicky "Sure you are..."
-# nicky "Another day in paradise."
-# nicky "I'll leave you two to it."
-# He walks out again.
-# Ciaran/Tai/Camilo laughs/AJ, a little nervously.
-
-# -Cuddle up to [him_her]
-# You brush the feather away and cuddle closer up to Ciaran/Tai/Camilo/AJ.
-
-# (Scene with Bill/Harry/Yasmin):
-# s3_mc "Morning, you."
-# B/H/yasmin "Morning."
-# A loose feather is stuck on Bill's/Harry's/Yasmin's nose.
-# Choiceseb "I should..."
-# -Just cuddle up to [him_her]
-# You snuggle closer to Bill/Harry/Yasmin.
-#  Bill/Harry/Yasmin brushes the feather off [his_her] nose.
-# B/H/yasmin "You're the best cuddler ever. (you get 😍  Bill/Harry/Yasmin)"
-# s3_mc "On a scale from one to ten?"
-# B/H/yasmin "You're off the scale!"
-
-# -Tickle [him_her] with the feather
-# You grab the feather and tickle Bill/Harry/Yasmin right on the nose.
-# [he_she] sneezes loudly.
-
-# -Take it off for [him_her]
-# You pick the feather of Bill's/Harry's/Yasmin's nose.
-# [he_she] looks at you a little confused.
-# B/H/yasmin "OK..."
-# s3_mc "You had a feather on your nose."
-# B/H/yasmin "Oh, it's one of those white ones."
-# B/H/yasmin "I've heard you can make a wish on these."
-# B/H/yasmin "I know exactly what I'm wishing for... (you get ❤️ with Bill/Harry/Yasmin)"
-# B/H/yasmin "Want to know what it is?"
-# Choiceseb "Do I want Bill/Harry/Yasmin to tell me what he's/she's wishing for?"
-# -Yeah, go on!
-#  Bill/Harry/Yasmin smiles.
-# B/H/yasmin "I wish for more mornings like this one."
-# B/H/yasmin "Being right here in your arms is all I could ever wish for."
-# s3_mc "Aw, that's so sweet!"
-#  Bill/Harry/Yasmin blows on the feather.
-# It floats off in the bedroom.
-
-# -Don't you mean 'who'?
-# Bill/Harry/Yasmin smiles.
-# B/H/yasmin "I wish for more mornings like this one."
-# B/H/yasmin "Being right here in your arms is all I could ever wish for."
-# s3_mc "Aw, that's so sweet!"
-#  Bill/Harry/Yasmin blows on the feather.
-# It floats off in the bedroom.
-
-# -No, it might not come true
-#  Bill/Harry/Yasmin smiles. 
-# B/H/yasmin "Good thinking."
-#  Bill/Harry/Yasmin blows on the feather.
-# It floats off in the bedroom.
-
-# [he_she] stretches his arms up, yawning loudly.
-# As [his_her] arms come down, [he_she] wraps one around you.
-# You lie in each other's arms for a while, watching LI's chest rise and fall with each breath.
-# B/H/Cam/aj "I'm just so happy that we get to wake up next to each other in the morning."
-# (MC coupled with Ciaran/Tai/Yasmin before):
-# C/T/yasmin "I really love waking up next to you in the morning."
-# C/T/yasmin "It's the best thing ever."
-# (MC not coupled with Ciaran/Tai/Yasmin before):
-# C/T/yasmin "I'm just so happy that we get to wake up next to each other in the morning."
-# Choiceseb "LI likes waking up next to me!"
-# -Me too, this is perfect
-# LI smiles and strokes your cheek. (you get 😍 LI)
-
-# -You should, I am a treasure
-# s3_mc "You've just woken up at the end of the rainbow, hun."
-# Liona "You crack me up. (you get 😂 with LI)"
-# Liona "I hope you like what's in my pot of gold."
-
-# -Great! Now can we make breakfast?
-# Liona "We will, we will."
-# Liona "I just want to say something."
-
-# Liona "I wanted to say, like, I really can't tell you how happy I am that you picked me."
-# Choiceseb "LI is pleased that I picked [him_her]..."
-# -Reassure [him_her]
-# LI grins and blushes a little. (you get 😍 LI)
-
-# -Ask if [he_she] was nervous
-# Liona "No."
-# Liona "I don't want that to sound, like, arrogant."
-# Liona "But I was pretty sure you'd pick me."
-
-# -Joke about not wanting to choose anybody
-# s3_mc "I was like, 'I'd rather go home than have to choose from these loser'."
-# Liona "Really? (you get 🙁 with LI)"
-# s3_mc "Nah."
-# Liona "Phew!"
-
-# Bill holds out his arms and you snuggle up close to him.
-# bill "It's well nice being here with you."
-# bill "Is it what you expected? I mean, is this how you imagined life in the Villa?"
-# Choiceseb "Is the Villa what I expected?"
-# -It's been really chill
-# s3_mc "I was expecting a nice, chilled-out holiday, but it's been a lot of drama."
-# bill "Yeah. I'm really not a fan of drama."
-
-# -I thought there'd be more drama
-# s3_mc "I was kind of expecting it to be some kind of unending firestorm of drama, but everyone is really nice."
-# bill "Wow... deep."
-# s3_mc "You have that effect on me."
-# bill "You thought it was all drama-free? What happened on day one?"
-# s3_mc "Miki was really just playing the game."
-# bill "I agree. I don't get on with drama."
-
-# -I didn't expect to find someone like you
-# s3_mc "I was expecting fun, flirty times and a free holiday."
-# s3_mc "You kind of knocked me off my feet."
-# He smiles back at you.
-# bill "I could say the same."
-
-# s3_mc "I love just being able to relax without doing any adulting."
-# bill "What do you mean?"
-# s3_mc "You know, pay your bills, go shopping, make the bed..."
-# bill "Oh, I getcha. I barely even make my bed, though."
-# s3_mc "You what?"
-# bill "Just not necessary, is it? Nobody sees my bed during the day."
-# bill "And if they do, they're not gonna care if it's a bit messy."
-# Choiceseb "Bill has never made his bed..."
-# -Right, it's just a waste of time
-# s3_mc "People spend too much time on things that don't really have a point."
-# bill "I knew you'd get me."
-
-# -I don't agree with that at all
-# s3_mc "It's just a part of life, you know?"
-# s3_mc "You may as well not clean your house."
-# bill "That's totally different. Not making your bed isn't dirty, is it? It's just saving your effort for things that matter."
-# s3_mc "Hmm."
-
-# -Didn't your mum make you when you were a kid?
-# bill "Yeah, and it was a massive waste of time then, too."
-# s3_mc "So what do you do with all the time you save not making your bed?"
-# bill "Make a cuppa, obviously."
-# bill "Means, I get it that little bit sooner in the day, and that's a lifesaver at times."
-
-# s3_mc "So is there anything else you've never done?"
-# bill "Nothing that matters. But if you're interested, let's see..."
-# bill "I've never spent money on a book. Library's free, innit?"
-# bill "I've never eaten a peach. It's just an apple being extra."
-# bill "I've never had a salad with meat in it. Meat's a separate food."
-# bill "I've never been to America. I've seen it on TV and that's enough."
-# s3_mc "OK, OK, I think that's plenty!"
-# Choiceseb "There seem to be a lot of things Bill's not done..."
-# -I really admire the strength of your convictions
-# s3_mc "Not many people know their own minds as much as you do."
-# s3_mc "Even when I don't agree, I think it's really cool that you stick to your guns."
-# s3_mc "Maybe I could try and change your mind on one or two things once we leave the island, though?"
-# s3_mc "I think it could be fun."
-
-# -Aren't you worried about missing out?
-# bill "Not really. I don't need to eat a peach to know it's a weird apple, you know?"
-# s3_mc "Yeah, but you might like some of these things."
-# s3_mc "You might love peaches!"
-# s3_mc "You'll never know until you try."
-
-# -When we leave here, we're gonna do all these things together
-# s3_mc "No buts. We're gonna try loads of new things, and you might even like some of them."
-
-# Bill chews his lip.
-# bill "This will sound weird, but, I feel like when people think 'Bill' they think 'the guy with the opinions'."
-# s3_mc "What do you mean?"
-# bill "I mean it's hard to change my mind on anything because I'm known for never doing that."
-# bill "Sometimes I worry that I've backed myself into a bit of a corner."
-# s3_mc "Well, maybe I can help you out of it. We can work on Bill 2.0 'the guy who keeps surprising you', what do you say?"
-# Bill smiles, and reaches out to brush your hair with his fingertips.
-# bill "Sounds great, babe."
-# s3_mc "At least try a peach."
-
-# harry "You're so beautiful, MC."
-# harry "I just wanna treat you like a princess and shower you with gifts."
-# Choiceseb "Harry wants to shower me with gifts..."
-# -Relationships aren't about gifts
-# -I love getting gifts
-# harry "That's good, 'cause I love giving them."
-
-# -Do I get to buy you gifts too?
-# harry "Of course! I just think little presents are a great way to show you care."
-
-# harry "It's because I'm a total bee."
-# s3_mc "A bee?"
-# harry "Yeah, it's one of the four Affection Animals. Have you heard of them before?"
-# s3_mc "No, I haven't."
-# harry "Basically, it's a way of categorising people based on how they give and receive love and affection."
-# harry "I'm a bee. We work, we build and give as a way of showing our partners how we feel."
-# harry "Then you've got Wolves, who show their affection through being present. Standing guard, staying loyal, spending quality time together."
-# harry "Dolphins are communicative and friendly. They tend to be the first to say 'I love you'."
-# harry "And then you've got Octopuses. Octopi. Octopeese?"
-# s3_mc "I don't think it's octopeese."
-# harry "It's 'geese', isn't it?"
-# s3_mc "That's totally different."
-# harry "OK, whatever. If you're an Octopus, you're all about physical touch, sex and that."
-# s3_mc "I see."
-# harry "So which do you think you are?"
-# Choiceseb "I'm definitely"
-# -An Octopus
-# -A Dolphin
-# harry "Nice. I've almost dared Dolphins in the past."
-# s3_mc "So that's why they don't let you into the aquarium anymore?"
-# He laughs.
-# harry "Seriously though, I do tend to get on well with Dolphin-type people. I like how up-front they are."
-# harry "Sometimes Dolphin/Bee relationships can lack physical intimacy, but I don't think we have that problem."
-
-# -A Bee
-# Harry grins broadly.
-# harry "That's like me! That's good news for our compatibility."
-# harry "Two bees tend to have awesome adventures and do a lot together."
-# harry "But we've got to be careful that we don't rely on actions too much and forget to communicate clearly."
-
-# -A Wolf
-# harry "Cool. Wolves and Bees are meant to get on well, especially when it comes to starting a family and building a home together."
-# He blushes.
-# harry "I mean, not saying we're definitely there yet or anything, but... you know."
-# harry "But we've got to be careful we don't focus too much on each other and neglect our other relationships."
-
-# Choiceseb "This system..."
-# -Makes no sense at all
-# -Makes a lot of sense
-# harry "Yeah, I really like it. It can tell you a lot about you and your partner."
-# harry "I'm not into all stuff like that. I think dividing people up based on their personality is mega fun."
-
-# -Would work better with fruit
-# harry "Fruit? How would that work? Dolphins are talkative.. What's a talkative fruit?"
-# Choiceseb "Easy. That's a... (no further reactions)"
-# -Pineapple
-# -Star fruit
-# -Watermelon
-# harry "Why?"
-# You shrug.
-
-# s3_mc "Wait, don't tell me I'm the only one who has conversations with fruit?"
-# Harry laughs.
-
-# He weaves his fingers into yours and pulls you closer. You press up to his chest and he cuddles you tight.
-
-# Camilo runs his fingers down your cheek and neck. The light touch leaves goosebumps on your skin.
-# Choiceseb "Should I kiss him?"
-# -No
-# -Do the same back to him
-# -Yes
-# You drape your arms around his neck and tilt your head towards him.
-# He kisses you slow and sweet, and for a moment the world melts away and there's only the two of you.
-# At long last, he pulls away and gives you one of his incredible smiles before wrapping you in his arms.
-# camilo "It's so weird to think that this'll all be coming to an end sooner or later."
-# s3_mc "I don't want it to be over."
-# camilo "Yeah... back to the real world..."
-# camilo "Having to go down to the supermarket..."
-# s3_mc "Having to work!"
-# camilo "You're a scientist/model/pro athlete/musician, right?"
-# s3_mc "Yeah, that's right."
-# camilo "You like it?"
-# Choiceseb "How do I feel about my job?"
-# -It's fine, but not my dream job
-# -I don't like it
-# -I love it - it's my dream job
-# s3_mc "Yup. Wouldn't change it for the world."
-# s3_mc "It was basically all I've ever wanted to do since I was a little girl."
-# s3_mc "The other day, my mum found all these pictures I'd drawn when I was five, and in every single one I was a scientist/model/pro athlete/musician."
-# camilo "That's great."
-
-# s3_mc "How do you feel about working in your family's shop?"
-# camilo "I'm not gonna say I hate it, because I don't."
-# camilo "I love chatting with people and that. Plus, I get to big up my mum's empanadas, which are lush."
-# camilo "But it's not my dream job, you get me?"
-# s3_mc "Why don't you do something else?"
-# camilo "Not that easy, babe. I took over after my dad got ill. If I leave, who's gonna do it?"
-# camilo "I'd proper love to try something else, but I just can't. It is what it is."
-# Choiceseb "Camilo wishes he could leave his job..."
-# -You don't have to be responsible for everyone
-# -Don't you have a million family members, who could take over?
-# -You deserve to be happy
-# s3_mc "I think it's great that you're so into doing the right thing by your family."
-# s3_mc "But, like... don't put everyone else above yourself."
-# s3_mc "You get to prioritise yourself sometimes. I'm sure your family doesn't want you to support them at the cost of your happiness."
-
-# camilo "But it's about, like, duty, innit?"
-# camilo "It's like giving your word. You can't go back on it."
-# Choiceseb "Camilo says he can't quit because he gave his word..."
-# -I don't think it's so black-and-white
-# -I'm sure your family would understand if you quit
-# -That's so noble it hurts
-# camilo "It's not like I'm some kinda saint."
-# camilo "Just a bloke who does right by his family."
-
-# s3_mc "So what would you do if you could do anything?"
-# camilo "BJJ competitor?"
-# camilo "I used to want to do that. But I think I enjoy it more as a hobby."
-# camilo "I think now I'd want to be..."
-# camilo "Actually, it's kind of a secret. Is it OK if I don't tell you right now?"
-# s3_mc "Of course. I'd love to hear it one day, though."
-# camilo "Definitely."
-
-# aj "Ugh, I want to kiss you so bad."
-# Choiceseb "AJ wants to kiss me."
-# -Blow her a kiss
-# -Kiss her softly
-# You lean towards AJ. she closes her eyes again.
-# Your lips gently touch for a moment. It's soft and earnest.
-# You melt into one another for a few moments.
-# Your hands explore each other's bodies as you rhythmically in sync with each other.
-# Your heart flutters a little as you both pull away.
-# aj "Wow! (you get ❤️ with AJ)"
-# AJ You're such a good kisser.
-
-# -Make out passionately
-# Your lips touch and in an instant your hands are exploring her toned body.
-# She lets out a small moan of pleasure, taking your wrists lightly, pulling you closer into her.
-# You kiss her urgently. For a moment, her touch is all that matters until you both pull away.
-# aj "Hot damn."
-# aj "That was..."
-# AJ seems a little bit out of breath.
-# aj "Hot!"
-
-# aj "Oh, I was wondering..."
-# aj "You know, my usual general nosiness."
-# aj "What kind of stuff gets you in the mood?"
-# s3_mc "What kind of mood?"
-# aj "You know, a sexy mood... in the bedroom."
-# aj "My coach always says communication."
-# s3_mc "Your coach said that to you in the bedroom?"
-# AJ blushes and bursts out laughing.
-# aj "No!"
-# s3_mc "What's the one thing that gets you in the mood?"
-# Choiceseb "What gets me in the mood..."
-# -When someone plays with my hair
-# -Just say my name three times while looking in a mirror 
-# -I love it when people kiss my neck
-# aj "Aw, really?"
-# She leans in closer to you.
-# aj "Mind if I kiss your neck now?"
-# Choiceseb "AJ wants to kiss my neck!"
-# -No thanks, not right now
-# -Go for it
-# She gently kisses you, sending shivers down your spine.
-# s3_mc "Perfect."
-# aj "I try."
-
-# s3_mc "Hey, isn't it your birthday today?"
-# aj "You remembered!"
-# s3_mc "Of course."
-# She hugs you tightly.
-# Choiceseb "It's AJ's birthday!"
-# -Sing happy birthday
-# -Suggest birthday bits
-# s3_mc "So, you up for some birthday bits?"
-
-# -Give her a happy birthday kiss
-# You lean in and kiss her on the cheek.
-
-# She grins.
-# aj "I already know this is going to be the best birthday ever."
-# aj "I get to spend it with you."
-
-# Tai's dark eyes crinkle with his smile.
-# tai "I was just thinking about my dad. I hope he's having fun watching this."
-# tai "Not, er, all of it, though."
-# He leans closer, his gaze inviting.
-# Choiceseb "Tai wants to kiss me!"
-# -Not with his dad watching
-# -Kiss him while looking for a camera
-# You eye up your surroundings before leaning in and kissing Tai firmly on the mouth.
-# Tai draws back and murmurs something you can't quite hear against your neck.
-# s3_mc "Wait."
-# You put your hand up over your faces like you're avoiding paparazzi.
-# s3_mc "Now no one can see."
-# He kisses very lightly down to the hollow of your throat, then along your collarbones.
-# It's a little ticklish, but the sensation gives you shivers.
-# When you break apart, you still feel warm from Tai's touch.
-# His smile is wonderfully bright.
-
-# -Kiss him
-# You lose yourself in the kiss. Tai draws back and murmurs something you can't quite hear against your neck.
-# He kisses very lightly down to the hollow of your throat, then along your collarbones.
-# It's a little ticklish, but the sensation gives you shivers.
-# When you break apart, you still feel warm from Tai's touch.
-# His smile is wonderfully bright.
-
-# tai "Before I came to the Villa, I wondered if I'd get bored. I should've known better."
-# s3_mc "I can't picture you being bored."
-# tai "I thought there might be loads of lying around doing nothing."
-# tai "Don't get me wrong. I love sunbathing as much as the next guy."
-# tai "But I didn't want to end up twiddling my thumbs, you know?"
-# Choiceseb "Tai didn't want to get bored on Love Island..."
-# -Could anyone get bored here?
-# -I didn't want to get bored either
-# s3_mc "I didn't really know what it would be like."
-# s3_mc "You see it on TV, but that's not the same  as seeing it with your own eyes."
-# s3_mc "I wondered if there'd be enough to do."
-# s3_mc "But it ended up with even more than I could have hoped!"
-
-# -I'd stop you getting bored
-# s3_mc "Anytime you feel yourself getting bored, you can count on me."
-# tai "I take it you don't mean for a game of Snap?"
-# tai "Though I did play strip Snap once."
-# s3_mc "How'd that go?"
-# tai "I got very cold."
-# tai "I'll definitely count on you if I'm at a loose end."
-# tai "Or, y'know, anytime."
-
-# tai "It's funny, normally I never stop moving. I think that's why I thought I might get bored."
-# tai "But this is like a dream holiday."
-# tai "If I was in London right now, it'd probably be raining."
-# tai "What would you be up to if you weren't in the Villa?"
-# Choiceseb "If I wasn't in the Villa, I'd be..."
-# -Busy with work
-# s3_mc "I'd probably have my nose to the grindstone."
-
-# -Chilling with my friends
-# s3_mc "Probably hanging out with my friends."
-# s3_mc "Hopefully I wouldn't have my nose to the grindstone."
-
-# -Watching Love Island
-# s3_mc "As if I could be doing anything else!"
-# s3_mc "I'd be parked on my sofa watching you on Love Island."
-# tai "And I bet you'd fancy me."
-# Choiceseb "Tai thinks I'd fancy him if I saw him on TV..."
-# -I'd be jealous of whoever you were with
-# tai "Aww, don't be jealous. I'd care about you, too."
-# tai "Not that the other person would be real."
-# tai "Anyway, I'm glad you'd be doing something fun with your summer."
-# s3_mc "Yeah, hopefully I wouldn't have my nose to the grindstone."
-
-# -Of course I would
-# s3_mc "You're irresistible."
-# tai "Right back at you. (you get 😍 with Tai)"
-# tai "I'm glad you'd be doing something fun with your summer."
-# s3_mc "Yeah, hopefully I wouldn't have my nose to the grindstone."
-
-# -But I wouldn't know you
-# s3_mc "You're fit."
-# tai "Of course."
-# tai "But I wouldn't know you the way I do now. It's not the same."
-# For a couple of moments, Tai searches for the right word. (you get 😍 with Tai)
-# tai "That's awesome."
-# tai "Anyway, I'm glad you'd be doing something fun with your summer."
-# s3_mc "Yeah, hopefully I wouldn't have my nose to the grindstone."
-
-# tai "The what to the what-stone?"
-# tai "I've never heard that before, say it again!"
-# s3_mc "Nose to the grindstone!"
-# s3_mc "It's when you're working really hard."
-# tai "But where's the grindstone coming in?"
-# tai "Maybe it's a stone you grind on, like a pole in a club."
-# thought "Tai's thinking too much about this."
-# Choiceseb "How shall I distract him?"
-# -Tickle him
-# -Give him a kiss
-# MC. Hey, Tai. You're thinking too much.
-# Tai returns his attention to you just in time for you to lean close and kiss him on the forehead.
-# He laughs and strokes your hair back from your face.
-# tai "You've got a point. (you get 😍 with Tai)"
-
-# -Say 'grindstone' sexily
-# s3_mc "Hey, Tai. Over here."
-# Tai returns his attention to you, and you lean in very close to his ear.
-# s3_mc "Grindstone."
-# Tai shivers.
-# tai "Told you. Anything you say, boom! It's hot."
-
-# ciaran "Hey, MC?"
-# s3_mc "Yeah?"
-# ciaran "I was thinking where I want to take you when we're out of the Villa."
-# ciaran "Like, on dates."
-# ciaran "That's another thing I think about on long shifts. Potential date ideas for my perfect woman."
-# Choiceseb "That's..."
-# -Cheesy
-# -Accurate
-# -Cute
-# s3_mc "You really are a sweetheart, aren't you?"
-# Ciaran blushes and smiles.
-# ciaran "I suppose."
-
-# ciaran "Obviously I want to show you Waterford, but I also want to take you and Kerry to the beach."
-# ciaran "Make a nice picnic, get one of those massive umbrellas."
-# ciaran "Does that sound nice?"
-# Choiceseb "Do I want to go to the beach with Ciaran?"
-# -I don't like the beach
-# -Sounds perfect
-# ciaran "Oh, good."
-# ciaran "We'll pencil it in, then."
-
-# -As long as it's somewhere sunny
-# s3_mc "I'm thinking the Med or the Caribbean."
-# ciaran "Woah! Might be tricky with a dog and all, but I'm sure we can make it."
-
-# s3_mc "So, you haven't asked me whether I still like you today."
-# ciaran "Oh gosh, I forgot!"
-# ciaran "Do you?! Please say yes."
-# s3_mc "Yes!"
-# s3_mc "It's nice. It's like you're starting to actually believe it now."
-# ciaran "You're right. I didn't think about whether you'd want to come on the date with me. I just thought about where I'd want to take you."
-# ciaran "Watch out, you're looking at the new and improved Ciaran!"
-# ciaran "Any tips on how to use my new confidence? For good or evil?"
-# Choiceseb "What do I want Ciaran to do with his confidence?"
-# -Act cocky
-# -Believe in your sauce
-# s3_mc "Have more faith in your writing!"
-# s3_mc "The world needs to hear about Captain Kerry and her adventures with the smoking hot Ciaran-man."
-# ciaran "Aw, MC, that means so much to me."
-# s3_mc "Besides, who else is going to fight evil for planet Earth?"
-# ciaran "We must step up to the challenge!"
-
-# -Graft on me
-# s3_mc "Show me your grafting skills."
-# ciaran "You already know I'm terrible at that."
-# ciaran "New day, new you! C'mon, show me what you've got."
-# ciaran "OK, er, let me think."
-# His brow furrows. He appears deep in thought.
-# ciaran "Oh, I've got something."
-# He takes one of your hands in both of his.
-# ciaran "MC, I honestly think, with all sincerity, you are the most beautiful woman I've ever seen."
-# Your heart skips a beat.
-# ciaran "How was that?"
-# s3_mc "Uh... yeah, Ciaran, that was good."
-# s3_mc "I'd say that's Ciaran-brand grafting."
-# ciaran "Good!"
-
-# ciaran "OK, I have a handle on it now, I think."
-# ciaran "Ciaran-man is ready for action."
-# ciaran "Anything else you want me to do?"
-# Choiceseb "Shall I make Ciaran do anything else?"
-# -Nah
-# -Kiss me!
-# s3_mc "I want to see you kiss me for a change."
-# ciaran "That's something I can handle..."
-# He moves closer to you, slowly, with a sly smile.
-# Gently, he puts both hands on your waist, and moves his lips so they're inches from yours.
-# He laughs and kisses you fiercely, his grip on your waist tightening. You run your hands into his hair and let him take control of the kiss.
-# You are left breathless, staring at him as he grins mischievously.
-# s3_mc "OK. You have to do that more often."
-# ciaran "Agreed."
-
-# ciaran "You know, MC, you make me feel so different."
-# ciaran "It's a really good different."
-# ciaran "I'm really glad I met you."
-# s3_mc "I'm glad, too."
-
-# yasmin "So... do you remember what I said, about how I never want to be in a long distance relationship?"
-# s3_mc "Yeah?"
-# She slowly strokes her thumb across the back of your hand.
-# yasmin "I was just wondering how you feel about all that."
-# yasmin "Have you ever tried it?"
-# Choiceseb "Have I ever been in a long distance relationship?"
-# -Yeah, it worked for me
-# -Yes, but I didn't like it
-# -Nope, I've never tried it
-# yasmin "Do you think you ever would?"
-# Choiceseb "Would I ever be in a long distance relationship?"
-# -No, I wouldn't like it
-# -Sure, I'd be open to it
-# yasmin "Noted."
-
-# -Only if it was with you
-# yasmin "Aw, babe. (you get 😍 with Yasmin)"
-
-# yasmin "I only ask because I was wondering..."
-# yasmin "How you and I might potentially work outside the Villa. You know, if we decided that was going to be a thing."
-# yasmin "We might leave here and suddenly find ourselves living in totally different parts of the world."
-# Choiceseb "If me and Yasmin ended up living far apart..."
-# -You'd have to move closer to me
-# -We'd make it work long distance
-# -I'd move to be closer to you
-# s3_mc "Wherever you go, I can go too."
-# yasmin "Babe... (you get 😍 with Yasmin)"
-# yasmin "You don't know how much that means to me."
-
-# yasmin "Your presence is intoxicating. The way you make me feel when you're here beside me..."
-# yasmin "I don't want to lose that."
-# yasmin "And if we lived apart, I wouldn't be able to do this..."
-# She cups your face in her hands and smiles.
-# Choiceseb "Yasmin's going in for a kiss"
-# -Turn your face away
-
-# -Keep it short and sweet
-# You close your eyes as she presses a tender kiss to your mouth.
-# You enjoy the feeling of her lips against yours for a moment, before pulling back.
-
-# -Make it last
-# You sink into a slow, deep kiss. (you get 😍 with Yasmin)
-# Yasmin strokes your hair. Her hand travels the length of your neck before slipping lower, down your back.
-# Finally, she rests her forehead against yours and gazes into your eyes.
-
-# yasmin "Let's just say..."
-# yasmin "There's a lot of things I'd miss if you were far away."
-
-# s3_mc "Are we the only ones still in bed?"
-# You hear a rustle of sheets.
-# M/iona "Nope, you're not alone."
-# Miki/Iona gets out of her bed and looks over briefly.
-# Liona "Oops. Sorry, babe."
-# LI whispers in your ear.
-# Liona "I totally didn't notice that Miki/Iona was here."
-# [he_she] bites [his_her] lip as [he_she] gets up from the bed.
-# Liona "I'm going for a shower."
-# LI whispers in your ear as [he_she] leans over the side of the bed to grab a towel.
-# Liona "You can come and join me if you want."
-# [he_she] gets up and goes to the bathroom, a towel over [his_her] shoulder.
-# Choiceseb "Maybe I should follow LI for that sexy shower..."
-# -Heck yeah I want to shower with LI (gem choice)
-# -Nah, I'll just go and get changed
-# thought "Yeah, I don't need a hot sexy steamy shower."
-# You get out of bed and walk over the dressing room.
-# thought "I'll just end up getting more dirty than I already am."
-# Choiceseb "Maybe I should shower with LI..."
-# -Let's get steamy with dreamy LI (gem choice)
-# -Nah, I'll just go and get changed.
-# You head over to the dressing room.
-
-# Gem choice:
-# You leap out of the bed and rush over to the bathroom.
-# s3_mc "Let me get my steam on..."
-# thought "I was so excited I forgot my towel!"
-# Miki/Iona laughs.
-# M/iona "Oh, MC..."
-# You grab a towel and head out to the bathroom.
-
-# LI is already in the shower. A pile of [his_her] clothes are on the side.
-# The steam from the hot water rises around [his_her] body.
-# Liona "Is that you, MC?"
-# s3_mc "Sure is, babe."
-# Liona "Come on in."
-# You slip out of your clothes and get into the shower.
-# Ciaran/Tai/Camilo/AJ turns around stroking a large pile of white foamy soap in [his_her] arms.
-# C/T/Cam/aj "I've been expecting you."
-# s3_mc "I thought evil villains wore a grey smock, not..."
-# You look Ciaran/Tai/Camilo/AJ up and down.
-# s3_mc "Absolutely nothing."
-# Ciaran/Tai/Camilo/AJ winks and whispers.
-# C/T/Cam/aj "I'm wearing an invisible cloak."
-# s3_mc "I can see that."
-# [he_she] laughs and splashes you gently with foam.
-# Liona "Thanks for joining me, babe."
-# s3_mc "No sweat."
-# [he_she] starts to wash [his_her] body with soap.
-# s3_mc "Literally."
-# Choiceseb "I should..."
-# -Help LI wash himself/herself
-# You put some soap in your hand and give LI a back massage.
-# Liona "Oh, that feels well nice. (you get 😏 with LI)"
-# Liona "You're good with your hands."
-
-# -Make loads of soapy bubbles
-# You squeeze a bit of soap in your palms, cup your hands, and blow.
-# Large iridescent bubbles float around you both.
-# LI jumps up to catch one of the bubbles in [his_her] hand.
-# s3_mc "Beautiful, huh?"
-# Liona "Yeah."
-
-# -Give LI a funny hair style (AJ+Yasmin missing)
-# You put some soap in your hands and rub it into LI's hair.
-# His shoulders visibly relax. (you get 😂 with Tai)
-# tai "I actually love my hair being played with."
-# You fashion his hair into a spikey mess.(Bill/Harry/Tai/Camilo/Ciaran)
-# Tai/Camilo grins at you while putting soap in your hair and giving you the same spiked up look.
-# T/camilo "Perfection."
-# B/H/ciaran "Not going to lie, back in the day that's what my hair used to look like."
-# You both fall about laughing and rinse away your masterpiece. (you get 😂 with LI)
-
-# The warm water rolls off LI's body.
-# [he_she] looks hotter than ever.
-# Liona "You know what the best thing about having a shower together is?"
-# Choiceseb "What's the best thing about having a shower with LI?"
-# -I really needed a shower
-# -We can get some sexy alone time
-# Liona "Wow, I was thinking it was good for the environment."
-# Liona "Also it's always what they do in spy movies so, like, we can be sure."
-# Liona "But I like your answer too."
-
-# -It's good for environment
-# Liona "Ding, ding, ding."
-# Liona "We have a winner."
-# LI winks.
-# Liona "It feels good to get hot and heavy for the sake of the planet."
-
-# You both rinse the shampoo off your hair, taking it in turns to get the best angle under the powerful shower.
-# s3_mc "It sure is steamy in here."
-# Liona "Yeah..."
-# Ciaran/Tai blushes a little.
-# B/H/Cam/Y/aj "Maybe we can make it a little more steamy..."
-# Choiceseb "I should..."
-# -Splash [him_her]
-# You flick water at LI.
-# Liona "Is that, like, a sexy move or something?"
-# s3_mc "No, I'm just splashing you."
-# Liona "Oh! My bad."
-# LI quickly splashes you back.
-
-# -Kiss [him_her]
-# You lean in to LI and kiss [his_her] lips.
-# [he_she] pulls you in closer so your wet bodies are almost touching.
-
-# [he_she] turns around and lets the water spray into [his_her] face.
-# The water trickles down the nape of [his_her] neck.
-# It's just you and LI.
-# Liona "We don't get many alone moments in that bedroom, do we?"
-# s3_mc "Nope, not really."
-# Choiceseb "This could be a perfect opportunity to..."
-# -Just splash about
-# Liona "Sure, we can splash about if you want!"
-# LI cups the head of the shower with [his_her] hands and then pours water all over you.
-
-# -Do some sexy shower bits
-# You grin at [him_her] cheekily.
-# s3_mc "Shall we make the most of this private time?"
-# He nods, hurriedly, blushing a little.
-# ciaran "Hell, yeah!"
-# You step closer to his body.
-# B/H/T/Cam/Y/aj "You took the words right out of my head."
-# [he_she] pulls you closer towards [his_her] body.
-# In a flurry of passion, you gently but firmly press LI against the tilted wall.
-# C/aj "That's cold."
-# s3_mc "Oops."
-# LI breathes heavily as you explore each other's naked wet bodies.
-# Liona "I've never done it in the shower before."
-# s3_mc "Has anyone ever told you that you're, like, a work of art?"
-# Liona "No, they haven't!"
-# s3_mc "Well, I want to pin you up against the wall."
-# s3_mc "Like the masterpiece you are."
-# Liona "Oh, MC..."
-# LI kisses you, desperate for you.
-# C/T/Cam/aj "Frame me."
-# B/H/yasmin "Enough with the smooth lines."
-# LI kisses your lips and whispers in your ear.
-# Liona "I want you."
-# [his_her] body is wet to your touch.
-# Liona "I need you."
-# You kiss [his_her] neck, while your fingertips travel down [his_her] body.
-# Liona "Oh, wow."
-# LI shudders beneath your touch.
-# As [he_she] desperately pulls you close, you feel your breath catch.
-# Hot water trails down your body, along with LI's hands.
-# Surging heat builds between you. Eventually, you're both satisfied.
-# As you slowly pull away from each other, LI breathes out heavily.
-# Liona "Hot damn."
-# Liona "That was amazing."
-
-# Suddenly there is a knock at the door.
-# M/iona "Hello?"
-# M/iona "Are you guys, like, OK in there?"
-# Liona "Um, sorry Miki/Iona! Just a second."
-# LI and you laugh.
-# s3_mc "Busted."
-# M/iona "Come on, I really need the loo."
-# Liona "We'd better get out."
-# LI steps out and wraps a towel around himself/herself.
-# As you get out, [he_she] wraps one around you.
-# Liona "There."
-# Liona "Nice and clean now."
-# s3_mc "Sort of."
-# LI winks at you.
-# You head over to the dressing room to get changed.
-
-# thought "Hmm..."
-# thought "I don't know what today will bring at all."
-# thought "I better go out with a fierce look so I'm ready for anything and everything."
-# Outfit change to swimwear
-# thought "Oh, I love this thing."
-# thought "Oh this is the real deal."
-# thought "I look great!"
-# You shrug.
-# thought "This will have to do, I suppose."
-# (not choosing the gem choice to join LI in the shower):
-# LI walks in, towel drying [his_her] hair.
-# s3_mc "Nice shower?"
-# Liona "It would have been better with you in it."
-# (choosing the gem choice to join LI in the shower):
-# Liona "Clean now, babe?"
-# LI winks at you, towel drying [his_her] hair.
-# s3_mc "Totally."
-# Liona "I love it when you wear that, by the way."
-# s3_mc "What, this old thing?"
-# Liona "Yeah, it's gorgeous."
-# Liona "You look gorgeous in that, by the way. (you get 🤩 with LI)"
-# s3_mc "Aw, thanks hun!"
-# Liona "You look great in anything, obviously. But you'd look even in better in nothing, I think."
-# Your stomach rumbles.
-# Liona "Hungry?"
-# s3_mc "Starving."
-# Liona "You go get yourself something to eat while I sort myself out."
-# s3_mc "Oh, OK. Sure."
-# You head downstairs to the kitchen for breakfast.
-
-# You walk down into the kitchen. BFF is making breakfast.
-# bff "Cup of something, MC?"
-# Choiceseb "I want a cup of..."
-# -Tea
-# bff "One tea coming up."
-
-# -Coffee
-# bff "One coffee coming up."
-
-# -Wheatgrass smoothie
-# bff "A what?"
-# s3_mc "A wheatgrass smoothie."
-# s3_mc "Don't you know what a wheatgrass smoothie is?"
-# s3_mc "They were all the rage last summer."
-# bff "Really? OK, I'll see if we have any."
-# BFF crouches down and searches through a cupboard, confusion still etched around her/his face.
-# bff "Hmm, I don't think we have that here."
-
-# Ciaran comes over clutching a mug.
-# Ciaran blushes when he sees you.
-# ciaran "Hey again."
-# s3_mc "Hey."
-# ciaran "Can I get some of that water once it's boiled, please?"
-# bff "Sure. What are you after?"
-# ciaran "Cuppa tea, please."
-# bff "I'll bring it over to you."
-# Ciaran smiles.
-# ciaran "Grand."
-# BFF puts the kettle on to boil.
-
-# elladine "So, babes. What's your got-to breakfast?"
-# Choiceseb "Elladine wants to know my go-to breakfast..."
-# -Cereal. All day, every day
-# -I like a continental breakfast
-# -Most days I just have a quick snack
-# -It's a fry-up, obvs
-# elladine "Knew, you were my friend for a reason."
-# elladine "Can't be dealing with anyone who badmouths a full English."
-# elladine "And I make the best one around."
-# elladine "Important questions time. Do you have the black pudding?"
-# Choiceseb "Do I take pudding with my fry-ups? (no further reactions)"
-# -Obviously
-# -Never
-# -Only when I'm feeling adventurous 
-# elladine "Sound. And your opinion on hash browns?"
-# Choiceseb "Hash browns in a fry-up?"
-# -Hate 'em
-# -Love 'em, but not in a fry up
-# -Love 'em
-# elladine "Correct choice."
-
-# elladine "Alright, what about a drink? Orange juice, tea, or something else?"
-# Choiceseb "What drink do I have with my fry-up?"
-# -Milk
-# elladine "Not a bad choice."
-# elladine "But it's not as good as tea. It's the best thing for early mornings."
-
-# -Tea
-# elladine "Ding ding!"
-# elladine "Not sure how anyone can drink anything else, to be honest."
-
-# -Orange juice 
-# elladine "Not a bad choice."
-# elladine "But it's not as good as tea. It's the best thing for early mornings."
-
-# elladine "Maybe it's just in my blood? I like to joke about that sometimes..."
-# elladine "What thing do Brits and Iranians have most in common?"
-# s3_mc "I don't know, what?"
-# elladine "They both love tea way too much."
-# s3_mc "I neve realised you had such strong opinions on fry-ups."
-# elladine "Yeah, I sound like Bill, now, don't I?"
-
-# elladine "Alright, since I'm here grilling you already about your morning routine, how about another question?"
-# s3_mc "Go for it."
-# s3_mc "Morning sex?"
-# s3_mc "Woah. That took a turn."
-# elladine "Sorry. Guess I have sausage on my brain."
-# s3_mc "Was that even a question?"
-# elladine "I mean, what do you think of it?"
-# elladine "When you've literally just woken up. Is it fun? Or just good in theory?"
-# s3_mc "You've never done it?"
-# elladine "Um, no. I just sort of figured... well, there's all that bad breath, and you're all sweaty from the night..."
-# elladine "At least I usually am. First thing I have to do in the morning is shower."
-# elladine "I can't do anything else until then."
-# elladine "So... is it good?"
-# elladine "Nicky mentioned it, you see, so..."
-# Choiceseb "What do I think of morning sex?"
-# -You're right, it's just icky
-# -I've never really done it either
-# s3_mc "Sorry I can't help you! I'd not really thought about it until now, but I guess I'm just as new to it as you."
-# s3_mc "Guess the only way for us to find out is to try!"
-# elladine "Guess you're right."
-# elladine "I'll, uh..."
-# elladine "...I'll float the idea by him, I suppose."
-
-# -I love it
-# s3_mc "Honestly, babe. If Nicky wants to do it, and you're feeling adventurous, go for it."
-# s3_mc "There's something so primal and basic about it."
-# s3_mc "And what's hotter than someone waking up and their first thought being what they could do with you."
-# elladine "Yeah... when you put it like that. (you get 😳 with Elladine)"
-# elladine "I think, well, I'll talk to Nicky about it."
-
-# elladine "Thanks, hun."
-# s3_mc "No problem!"
-# The kettle clicks as it finishes boiling. Elladine pours you a cup of tea.
-# elladine "OK, one more?"
-# s3_mc "Sure."
-# elladine "Early bird or night owl?"
-# s3_mc "Ooh, good one!"
-# Choiceseb "Am I an early bird or night owl?"
-# -Early bird
-# s3_mc "Gotta seize the day, early bird catches the worm, and all that jazz."
-# elladine "And there's more than a few worms to catch in the Villa, right?"
-# s3_mc "Elladine!"
-# elladine "What? It's true isn't it?"
-# elladine "Anyway I'm the same."
-
-# -Night owl
-# elladine "Ah. I always think there's something romantic about that."
-# elladine "Like, in movies the night owls are all those tortured creative souls who can only work by the moonlight."
-# elladine "As cool as that sounds, I can't hack it."
-
-# elladine "I have to be in bed early or I start falling asleep."
-# elladine "My friends used to always joke about me falling asleep on the dance floor."
-# elladine "I just get lost in the music sometimes!"
-# s3_mc "Just 'resting your eyes', right?"
-# elladine "Exactly."
-
-# genevieve "You know, I think things are going to be different with Seb."
-# genevieve "Compared to my past relationships, that is."
-# s3_mc "How so?"
-# genevieve "I'm going to explain it in kind of a weird way, but stick with me..."
-# genevieve "So, I read this book called 'Creating Your Feminine Breeze'. It's about how women are always the caregivers and men try to take advantage of that."
-# genevieve "Basically women are goddesses, and men are mortals trying to suck out our power for their own gain."
-# genevieve "Does that make sense?"
-# Choiceseb "Do I understand what Viv is saying?"
-# -No
-# s3_mc "They're trying to suck what out of us?!"
-# genevieve "No! Not physically. Emotionally."
-
-# -Yes
-# s3_mc "Goddesses are naturally generous, and it intimidates mortals."
-# genevieve "Exactly!"
-
-# -I've read that book too!
-# s3_mc "It changed my life."
-# s3_mc "Goddesses are naturally generous, and it intimidates mortals."
-# genevieve "Exactly!"
-
-# genevieve "It's like, I went out with a guy who told me he was going to be an entrepreneur."
-# genevieve "It impressed me at first, but then I found out that 'being an entrepreneur' largely involved him playing Duty Calls."
-# genevieve "I paid that guy's rent for almost a year. Plus every bill when we went out for dinner so he wouldn't have to wash dishes."
-# genevieve "All while getting my PhD."
-# genevieve "I dumped him eventually, but not soon enough."
-# genevieve "And that book helped me realise that if a mortal wants to be with a goddess, he has to help her shine."
-# s3_mc "Seb's definitely that guy."
-# genevieve "I think so too."
-# genevieve "I'm not too proud to admit I've been taken advantage of before."
-# Choiceseb "Viv's been taken advantage of..."
-# -That's horrible
-# genevieve "Yeah, it is."
-
-# -It's cos you're so caring
-# genevieve "Aw, that's nice of you to say."
-# genevieve "You're probably right. Not a lot of people would pay someone else's rent, but  I suppose he targeted me cos he knew I would."
-
-# -Me too
-# genevieve "Babe, I'm sorry."
-# s3_mc "Thanks."
-
-# She holds up her fist and bumps yours.
-# genevieve "To new beginnings!"
-
-# nicky "Here's something."
-# nicky "I might have a proposal for Seb. But I wanna get your take on it before I ask him."
-# Choiceseb "A 'proposal' for Seb?"
-# -You're going to rob a bank together?
-# nicky "Hmm. Someday, maybe."
-# s3_mc "Do you think he'd be any good?"
-# nicky "You never know.I think he'd be good at moving silently, so maybe he can be the one who does the actual stealing."
-# nicky "I'm the ringleader and the planner, obviously."
-# nicky "And you can be the one who distracts the guards with your womanly charm."
-
-# -You're going to ask him to marry you?
-# nicky " Ha, not yet. He doesn't seem like the marrying sort."
-# s3_mc "No offence, but I don't think you're his type, either."
-# nicky "Tragic but true."
-# nicky "Well, you never know. Maybe someday he'll get married in a graveyard or something and live gloomily ever after."
-# nicky "He could have a bat for the officiant."
-
-# -You're going to buy out his shop?
-# nicky "God, no. Can you imagine?"
-# nicky "I'd have to shut it down and turn it into a shoe shop or something."
-# nicky "I don't understand how he stays in business. Who's buying records anymore? And from Seb, of all people?"
-# nicky "Can you imagine his customer service? How does he do it?"
-# s3_mc "I think he said the shop has a little café as part of it, so it's not just records."
-# s3_mc "But I know what you mean."
-
-# s3_mc "What does this have to do with your proposal?"
-# nicky "Oh, right, yeah. The thing."
-# nicky "I was thinking about asking Seb to do a podcast with me, once all this is over."
-# nicky "'Cause he actually really knows his stuff when it comes to music, and obviously I take an interest, 'cause it's my job."
-# nicky "And we could talk about our favourite artists, do reviews, that kind of thing."
-# nicky "What d'you think? Would anybody listen to that?"
-# Choiceseb "Nicky wants to ask Seb to host a podcast with him..."
-# -He'll never agree to that
-# -Yeah, that's a great idea!
-# s3_mc "You guys are both smart, and you're funny together, too. I think it'll be a great combination."
-# nicky "Cheers! I'm really glad you think so."
-
-# -If you're sure he's up to it...
-# s3_mc "Talking to people isn't exactly Seb's favourite thing in the world."
-# s3_mc "I know he's come out of his shell a bit since we've been here, but it's still a big ask."
-# nicky "True, but don't forget, he did apply to come on Love Island. And he's done well so far."
-# nicky "After this, I reckon a little podcast will be no trouble."
-
-# nicky "To be honest, and don't tell him this..."
-# nicky "....Part of the reason I want to ask him is so we have an excuse to stay in touch after Love Island."
-# nicky "I don't want him to just retreat into this cave when it ends and none of us ever see him again, y'know?"
-# Choiceseb "Nicky's doing this as an excuse to stay friends with Seb..."
-# -That's silly, you should just tell him you want to hang out
-# -Aw, that's actually pretty cute
-# s3_mc "I won't tell him. I think it might be too much sweetness for him to handle all at once."
-# nicky "Yeah, that's my thinking."
-# nicky "Friendship is still new to him. He just needs time to get used to it."
-
-# -Then why aren't you asking me to host a podcast with you?
-# nicky "'Cause you're not like Seb. I don't need to trick you into hanging out with me."
-# s3_mc "Well, maybe, but you should at least be trying!"
-
-# Nicky grins.
-
-# seb "Hey, MC. Have you ever made a mixtape for someone you fancied?"
-# s3_mc "A 'mixtape'?"
-# seb "You know what I mean. A playlist."
-# Choiceseb "Have I ever made a playlist for someone I fancied?"
-# -Come on, I'm not that melty
-# -Yeah, it's a great way to flirt
-# s3_mc "I love it. So romantic."
-# seb "Yes! Me too."
-
-# -No, but it's a cute idea
-# s3_mc "I think I'd just melt if someone did that for me."
-# seb "Oh, good. I wasn't sure if any girls actually liked it."
-# s3_mc "Tried it before, have you?"
-# seb "Only a lot."
-# s3_mc "Does it work?"
-# seb "...Sometimes."
-
-# seb "It's like a reflex. When I really like a girl, I just have to start making a playlist for her."
-# seb "With all the songs we've talked about together, or songs I think she'll like, or songs that remind me of her."
-# seb "I'm thinking about making one for Viv."
-# seb "Obvs. I have to do it in my head until I get home."
-# seb "And I know it's too soon! I know that. But I can't help it."
-# seb "I can't stop thinking of things I could do to try and make her smile."
-# seb "Her smile is just... mate, it goes right through me."
-# Choiceseb "Seb's going on about Viv..."
-# -You two are adorable
-# s3_mc "You make such a cute couple."
-# seb "We're not... I mean, we're not a proper couple. Like, officially."
-# seb "I think."
-
-# -Come on, give it a rest
-# s3_mc "Dude, I don't want this friendship to turn into you banging on about how great your girlfriend is."
-# seb "She's not my girlfriend!"
-
-# -Have you told her this?
-# seb "Told her what?"
-# s3_mc "Uh, that you're in love with her?"
-# seb "What? No I'm not!"
-
-# s3_mc "Well, it seems like you're already halfway there, at least."
-# s3_mc "Just a few days ago you told me you 'never fall for girls like her'."
-# s3_mc "And now you're talking about her like you've fallen head over heels."
-# seb "You're right. I mean, I always wished I could be with a girl like that."
-# seb "And now I think I've finally done it."
-# seb "I've fallen for someone nice who actually likes me back."
-# Choiceseb "Seb's feeling good about falling for Genevieve..."
-# -Alright, now just try not to mess it up
-# -I'm really happy for you
-# s3_mc "I think you're gonna be good for each other."
-# seb "Thanks, mate."
-
-# -I wouldn't get too excited yet
-# s3_mc "Look, I know being happy is still new and exciting for you, but don't get carried away."
-# s3_mc "You haven't actually known each other that long. You don't know how things will be outside the Villa."
-# seb "You're right. I'll try to keep my feet on the ground."
-
-# seb "I'm finally starting to feel like I do belong here after all."
-# seb "Actually, I think that chat we had the other day really helped."
-# seb "It turns out nice things happen sometimes when you're not always on the lookout for the next disaster."
-# s3_mc "Who knew?"
-# Seb grins.
-
-# bff "So, how are you feeling about last night?"
-# Choiceseb "How do I feel about getting with LI?"
-# -LI is punching up, to be honest
-
-# -I couldn't be happier
-# BFF smiles. 
-# bff "You two look great together."
-# genevieve "Oh, and MC, I really wanted to say that I'm happy for you and Harry."
-# genevieve "So don't worry about me."
-# genevieve "In case you were."
-# Genevieve smiles at you.
-# genevieve "And I'm actually kind of excited to see where this whole thing with Seb goes."
-# bff "I'm so, like, happy for you both. (doesn't appear if Genevieve is BFF and MC is coupled with Harry)"
-
-# -It was fate, nothing could stop us
-# bff "Ha, yeah, I guess you're right!"
-# genevieve "Oh, and MC, I really wanted to say that I'm happy for you and Harry."
-# genevieve "So don't worry about me."
-# genevieve "In case you were."
-# Genevieve smiles at you.
-# genevieve "And I'm actually kind of excited to see where this whole thing with Seb goes."
-# bff "I'm so, like, happy for you both. (doesn't appear if Genevieve is BFF and MC is coupled with Harry)"
-
-# bff "Your speech was amazing, by the way."
-# Choiceseb "BFF liked my recoupling speech."
-# -Yay! I worked really hard on it
-# bff "You could tell!"
-
-# -Really? It was totally improvised
-# G/elladine "Sometimes improvisation gives us the most genuine words."
-# N/seb "That's well brave. I couldn't have done that."
-
-# -Thanks, it came from the bottom of my heart
-# BFF starts to sniff the air.
-# bff "Can you smell that?"
-# [he_she] sniffs your shoulder.
-# bff "Smells like cheese."
-# s3_mc "Very funny."
-# bff "I'm kidding. You're both class."
-
-# The kettle stops boiling.
-# bff "So..."
-# BFF pours out the water into some mugs.
-# s3_mc "So?"
-# bff "It seems like things are all good for you two."
-# bff "Yeah, from everything you've said, you seem really smitten. (if you chose “fate” and “bottom of my heart”)"
-# Genevieve pours out the hot water.
-# (if you took a shower with LI and did bits): 
-# G/elladine "Did I hear that mouse in the bathroom earlier?"
-# s3_mc "Um..."
-# G/elladine "I definitely heard some squeaking."
-# s3_mc "No, I didn't see any mice."
-# G/elladine "Huh, I thought I could hear it when you and LI were in the bathroom."
-# G/elladine "I must have pool water in my ear or something."
-# S/nicky "And it certainly sounded like you two were having fun in the shower."
-# s3_mc "You heard us?"
-# S/nicky "I know a sexy noise when I hear one."
-# You blush.
-# bff "But, like, between you and me..."
-# bff "Do you think you'll be loyal with LI for, like, the rest of the time in the Villa?"
-# Choiceseb "Will I be loyal with LI?"
-# -Yeah, I want to be loyal
-# bff "That's cool."
-# bff "But seriously."
-
-# -My head could turn
-# bff "Really?"
-# s3_mc "You never know what will happen in this place."
-# BFF sighs.
-# bff "Yeah, I guess you're right."
-
-# -We will rule the land together forever
-# bff "I meant loyal, not royal."
-# s3_mc "I know."
-# s3_mc "And we will reign as the best, most royally loyal couple ever."
-# BFF laughs, spitting out her/his tea a little.
-# bff "You're so funny."
-# bff "But seriously."
-
-# bff "Have you had a chat with LI about, like, loyalty and stuff?"
-# s3_mc "Nope, not exactly..."
-# bff "Hmm..."
-# bff "Do you think he's/she's a loyal person?"
-# Choiceseb "Do I think LI is loyal?"
-# -Yeah, I think we're pretty solid
-# bff "Well, that's good."
-# bff "I don't want you to worry or anything."
-
-# -He's/She's [his_her] own person, I'm not forcing anything
-# bff "That's a good headspace to be in."
-# bff "I don't want you to worry or anything."
-
-# -If [he_she] knows what's good for [him_her] then [he_she] will be
-# bff "Don't you think that's, like, a bit threatening?"
-# You sigh.
-# s3_mc "I guess..."
-# bff "You don't want to come across, like, possessive."
-# bff "I don't want you to worry or anything."
-
-# BFF grabs a spoon from the drawer and starts to stir the tea.
-# bff "But it's good to keep an eye on these things."
-# The sound of the teaspoon hitting the china rings across the kitchen.
-# s3_mc "Um, BFF..."
-# s3_mc "What are you saying?"
-# bff "I'm not insinuating anything, MC."
-# s3_mc "Has [he_she] said something about me to you?"
-# bff "I'm just thinking out loud."
-# bff "Ignore me, MC."
-# BFF picks up the mugs.
-# bff "I'm sure it'll be fine."
-# bff "Ah, phew, it's Ciaran."
-# BFF glances at you, looking a little flustered.
-# bff "Tea's ready."
-# ciaran "Ta, BFF."
-# He blows on it and then takes an indulgent sip.
-# ciaran "That's cracking, cheers."
-# Some other Islanders saunter into the kitchen.
-# thought "What if LI isn't as loyal as I thought?"
-# LI heads over to the fridge.
-# thought "Could BFF be right?"
-# Liona "I am in such a snacking mood today."
-# thought "I guess that's [his_her] priority right now."
-# thought "Food."
-# (if you took a shower with Harry/Camilo/Tai and did bits and Seb/Nicky is BFF):
-# S/nicky "Did you hear a mouse earlier, Harry/Camilo/Tai? I could hear, like, weird noises coming from the bathroom earlier."
-# H/Cam/tai "From the bathroom?"
-# Harry/Camilo/Tai laughs.
-# H/Cam/tai "Oh, we were just cleaning the tiles, like, really hard."
-# S/nicky "Aw, that's nice of you."
-# M/iona "What's going on in here?"
-# yasmin "It's snack time."
-# yasmin "And MC as usual is looking like a snack."
-# s3_mc "Cheers, Yasmin."
-# genevieve "But it's still, like, the morning, isn't it?"
-# M/iona "I feel like it's basically brunch now."
-# Elladine claps her hands enthusiastically.
-# elladine "Oh, I am so going to have a good brunch."
-# M/iona "It's a marketing tactic, babe."
-# M/iona "Don't fall for it."
-# ciaran "What on earth is brunch?"
-# tai "How can you not know what brunch is, Ciaran?"
-# Choiceseb "Ciaran asked what brunch is... (no further reactions)"
-# -It's a late morning meal
-# -It's a ploy to make you spend more money
-# -It's when you have a brilliant hunch about something
-
-# tai "I'll make you the best brunch of your life, Ciaran."
-# tai "You just wait and see."
-# tai "I am a master brunch-maker."
-# B/camilo "BBQ king and brunch expert..."
-# B/camilo "Is there no limit to your skills?"
-# Tai crouches down and starts to rummage in a cupboard.
-# tai "Nope."
-# tai "It's all about the presentation, young bruncher."
-# ciaran "Oh, really?"
-# tai "It sure is."
-# (MC coupled with Yasmin/AJ):
-# He brings out a bag of baps and piles them on the counter.
-# tai "Baps?"
-# Ciaran smiles.
-# ciaran "I love them."
-# tai "I know."
-# tai "Prepare for the best bap of your life!"
-# tai "I need avocados."
-# He gets out a couple of avocados from the fridge.
-# ciaran "So what's the secret?"
-# tai "As long as it looks good you can't go wrong."
-# Tai mushes up some avocado with raw egg.
-# B/camilo "You're meant to at least boil the egg first, Tai."
-# bill "Raw egg is, like, worse than celery."
-# bill "Did you know that an uncooked egg doesn't give you, like, barely any of the protein a cooked one would?"
-# camilo "I'm all for experimenting in the kitchen, but this is, like, actually dangerous."
-# tai "Nonsense."
-# Tai continues to mash the sticky green mixture.
-# He packs it into some baps and garnishes it with a leaf of basil.
-# B/camilo "Looks like the boogey monster sneezed on the baps."
-# tai "Nah, mate. You wouldn't know good food if it ate you."
-# Bill/Camilo sighs.
-# B/camilo "I'm not even going to dignify that with a response."
-# M/iona "Yeah, sorry hun, that's inedible."
-# M/iona "You can't really eat raw eggs."
-# Choiceseb "Raw egg and avocado in a bap..."
-# -You've ruined a good bap
-# tai "I didn't mean to... (you get 🙁 with Tai)"
-
-# -I wouldn't eat that even if you paid me
-# tai "Oh... (you get 🙁 with Tai)"
-
-# -Sounds like a good hair mousse
-# M/iona "That's actually a really good shout."
-# Tai sighs.
-# tai "Yeah..."
-# He pokes at the bap. Green stuff oozes out.
-
-# tai "Think I got a bit carried away.(MC not coupled with Yasmin/AJ)"
-# Tai dejectedly scrapes the bap into the bin.(MC not coupled with Yasmin/AJ)
-# (MC coupled with Yasmin/AJ):
-# tai "Think I got a bit carried away."
-# tai "Sorry Ciaran..."
-# ciaran "It's the thought that counts. Don't worry about it."
-# ciaran "We can get brunch in my hometown together when we get out if you'd like."
-# Tai smiles, scraping the bap in the bin.
-# tai "Yeah, I'd like that."
-# Liona "I'm still hungry though..."
-# A text rings out.
-# bff "Oh."
-# bff "Hold that bap."
-# bff "I got a text!"
-# Everyone crowds around BFF's screen.
-# text "Islanders, put your best foot forward because two new Islanders will be arriving sometime today. #twosaparty #thirteenisacrowd"
-# Liona "Ooh, new people!"
-# Liona "Exciting..."
-# bff "New Islanders?"
-# BFF looks at you in shock.
-# Choiceseb "New Islanders are coming into the Villa!"
-# -Yay! That means more friends
-# thought "It's always great to meet new people!"
-# thought "I wonder if LI will just see them like a friend though..."
-
-# -I hope LI's head doesn't turn...
-# thought "I'd hate to lose [him_her] now!"
-
-# -I hope they sweep me off my feet
-# thought "LI is old news."
-# thought "I'm ready to be, like, properly swept off my feet."
-# You glance over at LI.
-# He's/She's smiling at you, unaware of your thoughts.
-
-# B/camilo "I wonder how they're going to arrive."
-# genevieve "Giant suitcase?"
-# elladine "Forget how."
-# elladine "When are they going to arrive?"
-# elladine "And who are they going to break up?"
-
-# "Ah, Elladine."
-# "You know what they say?"
-# "The more..."
-# "The merrier."
-# "Or maybe it should be messier."
-# "Can someone please get the Islanders to clean up that dressing room?"
-# "I can see a mug that is wearing a green fuzzy jacket."
-# "Not that my shed is any better..."
-# "It gets pretty damp in here."
-# "Coming up..."
-# "Two new Islanders are on the way into the Villa."
-# aj "This is the whole point of being here, to meet new people!"
-# "And it gets hard finding space to fit them all in!"
-# harry "What if the only space available is a cupboard?"
-# "My hut is strictly off limits until I sort out this damp problem."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# #########################################################################
 # ## Episode 9 Part 2
 # #########################################################################
 
-# "Welcome back to Love Island!"
-# "It's a beautiful day in the Villa..."
-# "For now."
-# "This morning, the Island was wracked with terrible news..."
-# bff "New Islanders?!"
-# "I think the Islanders are becoming spoiled."
-# "If they told me I'd have two sexy singles showing up at my doorstep, I'd show a little gratitude!"
-# "This afternoon, the Islanders get up to some hijinks..."
-# tai "I think we should play Hide and Seek!"
-# "And MC makes a startling discovery..."
-# s3_mc "There's someone in the wardrobe..."
-# "Let's crack on."
+label s3e9p2:
+    scene sand with dissolve
+    $ on_screen = []
 
-# You and the other Islanders are slumped on the loungers.
-# Everyone is stunned after this morning's text.
-# elladine "That stinks. We had five seconds of peace, and now we've got new Islanders changing it up?"
-# nicky "The course of true love never did run smooth."
-# nicky "And the course of Love Island is like sandpaper."
-# aj "Come on, guys! You don't think it's exciting?"
-# aj "This is the whole point of being here, to meet new people!"
-# yasmin "You're not worried about them grafting on MC?"
-# AJ rolls her eyes.
-# aj "No, I'm not. That's not my style."
-# tai "AJ's right. What's the use in worrying about something you can't control?"
-# Ciaran starts to list things off on his fingers.
-# ciaran "You're more prepared, you've explored the possible options, maybe made a plan..."
-# elladine "You're more likely to have anticipated outcomes."
-# ciaran "Good one."
-# tai "Agh! Stop!"
-# Tai takes Ciaran's hand and kisses it. (MC coupled with AJ/Yasmin)
-# Tai clampers his hand over Ciaran's mouth. (MC not coupled with AJ/Yasmin)
-# tai "You're starting to make me nervous!"
-# tai "MC, back me up, here."
-# Choiceseb "Should you worry about things you can't control?"
-# -Yes! The world is scary
-# s3_mc "You have to think of every possibility..."
-# s3_mc "Especially if you're having a difficult conversation. I play the whole thing in my head first."
-# elladine "Right? I like to have some speech prepared! (you get 😍 with Elladine)"
+    show screen day_title(9, 2) with Pause(4)
+    hide screen day_title with dissolve
+    "Welcome back to Love Island!"
+    "It's a beautiful day in the Villa..."
+    "For now."
+    "This morning, the Island was wracked with terrible news..."
+    s3_bff "New Islanders?!"
+    $ leaving("s3_bff_image")
+    "I think the Islanders are becoming spoiled."
+    "If they told me I'd have two sexy singles showing up at my doorstep, I'd show a little gratitude!"
+    "This afternoon, the Islanders get up to some hijinks..."
+    tai "I think we should play Hide and Seek!"
+    $ leaving("tai")
+    "And [s3_name] makes a startling discovery..."
+    $ entering("s3_mc_image")
+    s3_mc "There's someone in the wardrobe..."
+    $ leaving("s3_mc_image")
+    "Let's crack on."
 
-# -No, it doesn't do any good
-# s3_mc "Worrying won't change the outcome, except you'll feel worse at the end of it."
-# tai "Yes! Thanks, MC. I knew you'd have my back. (you get 😍 with Tai)"
-# elladine "I dunno. It's just a worrying situation... (you get 🙁 with Elladine)"
+    scene s3-sun-loungers-day with dissolve
+    $ new_scene()
 
-# -It depends on the situation
-# s3_mc "If it's something like this, worrying won't help."
-# s3_mc "But if it's like a test, worrying will motivate you to study, which will help."
-# elladine "That's how I got through my apprenticeship. You can't hold molten glass without worrying about it. (you get 😍 with Elladine)"
+    "You and the other Islanders are slumped on the loungers."
+    "Everyone is stunned after this morning's text."
+    elladine "That stinks. We had five seconds of peace, and now we've got new Islanders changing it up?"
+    nicky "The course of true love never did run smooth."
+    nicky "And the course of Love Island is like sandpaper."
+    aj "Come on, guys! You don't think it's exciting?"
+    aj "This is the whole point of being here, to meet new people!"
+    if s3_li == "AJ":
+        yasmin "You're not worried about them grafting on [s3_name]?"
+        "AJ rolls her eyes."
+        aj "No, I'm not. That's not my style."
+    tai "AJ's right. What's the use in worrying about something you can't control?"
+    "Ciaran starts to list things off on his fingers."
+    ciaran "You're more prepared, you've explored the possible options, maybe made a plan..."
+    elladine "You're more likely to have anticipated outcomes."
+    ciaran "Good one."
+    tai "Agh! Stop!"
+    if s3_li == "AJ" or s3_li == "Yasmin":
+        "Tai takes Ciaran's hand and kisses it."
+    else:
+        "Tai clampers his hand over Ciaran's mouth."
+    tai "You're starting to make me nervous!"
+    tai "[s3_name], back me up, here."
 
-# tai "I think we should distract ourselves."
-# nicky "Oh, did you want me to hook up a games console?"
-# iona "Wait, do we have one of those?"
-# bill "Do we have one of those?"
-# bill "Does it have Duty Calls?"
-# nicky "That was sarcasm, Bill/Iona."
-# iona "I knew that..."
-# bill "Don't mess with a man's emotions like that, Nicky."
-# tai "I was thinking something more physical."
-# iona "I like where this is going..."
-# tai "You've got the right idea, babe."
-# s3_mc "Now that sounds like fun! (appears only if Iona is dumped)"
-# tai "Mind out of the gutter, you."
-# aj "Let's wrestle!"
-# Liona "Dibs on MC!"
-# tai "Wrestling is purely for conflict, and when you have too much mud."
-# tai "I think we should play Hide and Seek!"
-# harry "Are we children?"
-# harry "Don't answer that."
-# tai "It'll be fun! Don't pretend you're not excited."
-# B/camilo "It'd be better than sitting here all day."
-# AJ springs to her feet.
-# aj "I think it's a great idea!"
-# aj "Everyone has to play. It's my birthday, and I order it."
-# nicky "By the birthday decree, it must be done."
-# AJ tries to pull you to your feet.
-# Choiceseb "AJ is trying to pull me up..."
-# -Sweep her off her feet with a kiss
-# You pull AJ onto your lap. She lets out a yelp.
-# aj "MC..."
-# You kiss her passionately, hearing groans from the other Islanders.
-# She smiles into the kiss, her hands deep in your hair.
-# nicky "Get a room!"
-# You part, grinning at the other Islanders' sour expression.
-# aj "Well, MC is in."
+    # CHOICE
+    menu:
+        thought "Should you worry about things you can't control?"
+        "Yes! The world is scary":
+            s3_mc "You have to think of every possibility..."
+            s3_mc "Especially if you're having a difficult conversation. I play the whole thing in my head first."
+            elladine "Right? I like to have some speech prepared!" #(you get 😍 with Elladine)
+        "No, it doesn't do any good":
+            s3_mc "Worrying won't change the outcome, except you'll feel worse at the end of it."
+            tai "Yes! Thanks, [s3_name]. I knew you'd have my back." #(you get 😍 with Tai)
+            elladine "I dunno. It's just a worrying situation..." #(you get 🙁 with Elladine)
+        "It depends on the situation":
+            s3_mc "If it's something like this, worrying won't help."
+            s3_mc "But if it's like a test, worrying will motivate you to study, which will help."
+            elladine "That's how I got through my apprenticeship. You can't hold molten glass without worrying about it." #(you get 😍 with Elladine)
 
-# -Go limp
-# You let your muscles go limp as AJ tries to pull you off of the lounger.
-# aj "MC!"
-# s3_mc "What?"
-# aj "You're not helping!"
-# s3_mc "That is correct."
-# She rolls her eyes.
-# aj "Right. You're getting up."
-# She squats down, slides her arms under you, braces herself, and lifts you off the lounger and into her arms.
-# s3_mc "Oh my god, AJ!"
-# aj "Leave no woman behind!"
+    tai "I think we should distract ourselves."
+    nicky "Oh, did you want me to hook up a games console?"
+    if s3_other_f == "Iona":
+        iona "Wait, do we have one of those?"
+        nicky "That was sarcasm, Iona."
+        iona "I knew that..."
+    else:
+        bill "Do we have one of those?"
+        bill "Does it have Duty Calls?"
+        nicky "That was sarcasm, Bill."
+        bill "Don't mess with a man's emotions like that, Nicky."
+    tai "I was thinking something more physical."
+    if s3_other_f == "Iona":
+        iona "I like where this is going..."
+        tai "You've got the right idea, babe."
+    else:
+        s3_mc "Now that sounds like fun!"
+    tai "Mind out of the gutter, you."
+    aj "Let's wrestle!"
+    if s3_li != "Tai":
+        if s3_li == "AJ":
+            aj "Dibs on [s3_name]!"
+        else:
+            s3_li "Dibs on [s3_name]!"
+    tai "Wrestling is purely for conflict, and when you have too much mud."
+    tai "I think we should play Hide and Seek!"
+    harry "Are we children?"
+    harry "Don't answer that."
+    tai "It'll be fun! Don't pretend you're not excited."
+    s3_other_m "It'd be better than sitting here all day."
+    "AJ springs to her feet."
+    aj "I think it's a great idea!"
+    aj "Everyone has to play. It's my birthday, and I order it."
+    nicky "By the birthday decree, it must be done."
+    "AJ tries to pull you to your feet."
 
-# -Jump up
-# You let AJ pull you to your feet.
-# aj "Hey! There we go! We have our participant."
+    # CHOICE
+    menu:
+        thought "AJ is trying to pull me up..."
+        "Sweep her off her feet with a kiss" if s3_li == "AJ":
+            "You pull AJ onto your lap. She lets out a yelp."
+            aj "[s3_name]..."
+            "You kiss her passionately, hearing groans from the other Islanders."
+            "She smiles into the kiss, her hands deep in your hair."
+            nicky "Get a room!"
+            "You part, grinning at the other Islanders' sour expression."
+            aj "Well, [s3_name] is in."
+        "Go limp":
+            "You let your muscles go limp as AJ tries to pull you off of the lounger."
+            aj "[s3_name]!"
+            s3_mc "What?"
+            aj "You're not helping!"
+            s3_mc "That is correct."
+            "She rolls her eyes."
+            aj "Right. You're getting up."
+            "She squats down, slides her arms under you, braces herself, and lifts you off the lounger and into her arms."
+            s3_mc "Oh my god, AJ!"
+            aj "Leave no woman behind!"
+        "Jump up":
+            "You let AJ pull you to your feet."
+            aj "Hey! There we go! We have our participant."
+        "Belly roll away":
+            "As she reaches for you, you let go of her hand, and let yourself roll sideways off the lounger."
+            aj "[s3_name]!"
+            "You continue rolling away from the loungers."
+            aj "Someone catch her! She's about to..."
+            "You fall into the pool."
+            "The others laugh as you climb back out."
+            aj "That's karma for you."
+            aj "At least you're up now."
 
-# -Belly roll away
-# As she reaches for you, you let go of her hand, and let yourself roll sideways off the lounger.
-# aj "MC!"
-# You continue rolling away from the loungers.
-# aj "Someone catch her! She's about to..."
-# You fall into the pool.
-# The others laugh as you climb back out.
-# aj "That's karma for you."
-# aj "At least you're up now."
+    tai "Who else is playing?"
+    "Seb raises his hand. Everyone looks at him."
+    seb "What?"
+    seb "I think it could be fun."
+    genevieve "Then I'm in too."
+    "Everyone else reluctantly raises their hands."
+    yasmin "If nothing else, it'll give me an excuse to lie down somewhere."
+    harry "What if the only hiding space left is somewhere tiny? Like, a cupboard?"
+    yasmin "I'll lie diagonally to maximise space."
+    harry "Smart. Efficient."
+    "Tai claps his hands and everyone turns to face him."
+    if s3_li == "Tai":
+        s3_li "Right! We're playing classic rules here, no mods."
+        s3_li "Whoever's 'it' counts to 100. Everyone else hides. If you get caught, you head back to the lawn."
+    else:
+        tai "Right! We're playing classic rules here, no mods."
+        tai "Whoever's 'it' counts to 100. Everyone else hides. If you get caught, you head back to the lawn."
+    seb "Who's 'it'?"
+    s3_li "Me and [s3_name] can do it!"
+    genevieve "Great!"
 
-# tai "Who else is playing?"
-# Seb raises his hand. Everyone looks at him.
-# seb "What?"
-# seb "I think it could be fun."
-# genevieve "Then I'm in too."
-# Everyone else reluctantly raises their hands.
-# yasmin "If nothing else, it'll give me an excuse to lie down somewhere."
-# harry "What if the only hiding space left is somewhere tiny? Like, a cupboard?"
-# yasmin "I'll lie diagonally to maximise space."
-# harry "Smart. Efficient."
-# Tai claps his hands and everyone turns to face him.
-# tai "Right! We're playing classic rules here, no mods."
-# tai "Whoever's 'it' counts to 100. Everyone else hides. If you get caught, you head back to the lawn."
-# seb "Who's 'it'?"
-# Liona "Me and MC can do it!"
-# genevieve "Great!"
-# Choiceseb "Li volunteered us to be 'it'..."
-# -Roll your eyes
-# s3_mc "Babe, you're meant to ask me before you volunteer me for stuff."
-# Liona "Oh, right. Sorry. (you get 🙁 with LI)"
-# Liona "Just, we can cover more ground with the both of us!"
+    # CHOICE
+    menu:
+        thought "[s3_li] volunteered us to be 'it'..."
+        "Roll your eyes":
+            s3_mc "Babe, you're meant to ask me before you volunteer me for stuff."
+            s3_li "Oh, right. Sorry." #(you get 🙁 with LI)
+            s3_li "Just, we can cover more ground with the both of us!"
+        "Thanks for asking":
+            s3_mc "Babe, you're meant to ask me before you volunteer me for stuff."
+            s3_li "Oh, right. Sorry." #(you get 🙁 with LI)
+            s3_li "Just, we can cover more ground with the both of us!"
+        "Yay! I'm excited":
+            s3_mc "This is gonna be fun!"
+            s3_li "Yeah, babe! We can cover more ground with the two of us." #(you get 😍 with LI)
 
-# -Thanks for asking
-# s3_mc "Babe, you're meant to ask me before you volunteer me for stuff."
-# Liona "Oh, right. Sorry. (you get 🙁 with LI)"
-# Liona "Just, we can cover more ground with the both of us!"
+    s3_other_f "Tactics. I like it."
+    elladine "That's settled then. [s3_li] and [s3_name] will be 'it' while the rest of us hide."
+    "Genevieve claps in excitement."
+    genevieve "Ooh, I feel like a kid again!"
+    aj "Me too!"
+    seb "AJ, you are a kid."
+    "AJ rolls her eyes."
+    tai "Are we all ready?"
+    if s3_li == "Tai":
+        tai "Let's cover our eyes."
+    else:
+        tai "[s3_li], [s3_name], cover your eyes!"
+    "You cover your eyes with your hands."
+    tai "3...2...1..."
+    tai "Go!"
+    if s3_li == "Tai":
+        tai "100...99...98..."
+    else:
+        s3_li "100...99...98..."
+    "You hear feet hitting the grass and everyone runs off to find a hiding space."
+    "[s3_li] continues counting down from 100."
+    if s3_li == "Tai":
+        tai "Three...two...one!"
+    else:
+        s3_li "Three...two...one!"
+    "You take your hands from your eyes."
+    "[s3_li] grins at you."
+    if s3_li == "Tai":
+        tai "I'm going to check the roof terrace!"
+    else:
+        s3_li "I'm going to check the roof terrace!"
+    s3_mc "OK! Good luck!"
+    "[s3_li] runs off towards the Villa."
+    "You look around the empty lawn."
+    thought "I'd better get searching!"
+    
+    # CHOICE
+    menu:
+        thought "Where do I want to search?" #(you can only choose 3)
+        "Bedroom":
+            call s3e9p2_bedroom from _call_s3e9p2_bedroom
+        "Hideaway":
+            call s3e9p2_hideaway from _call_s3e9p2_hideaway
+        "Lounge":
+            call s3e9p2_lounge from _call_s3e9p2_lounge
+        "Beanbags":
+            call s3e9p2_beanbags from _call_s3e9p2_beanbags
+    
+    # CHOICE
+    menu:
+        thought "Where do I want to search?"
+        "Bedroom" if "bedroom" not in s3e9p2_visited:
+            call s3e9p2_bedroom from _call_s3e9p2_bedroom
+        "Hideaway" if "hideaway" not in s3e9p2_visited:
+            call s3e9p2_hideaway from _call_s3e9p2_hideaway
+        "Lounge" if "lounge" not in s3e9p2_visited:
+            call s3e9p2_lounge from _call_s3e9p2_lounge
+        "Beanbags" if "beanbags" not in s3e9p2_visited:
+            call s3e9p2_beanbags from _call_s3e9p2_beanbags
+    
+    # CHOICE
+    menu:
+        thought "Where do I want to search?"
+        "Bedroom" if "bedroom" not in s3e9p2_visited:
+            call s3e9p2_bedroom from _call_s3e9p2_bedroom
+        "Hideaway" if "hideaway" not in s3e9p2_visited:
+            call s3e9p2_hideaway from _call_s3e9p2_hideaway
+        "Lounge" if "lounge" not in s3e9p2_visited:
+            call s3e9p2_lounge from _call_s3e9p2_lounge
+        "Beanbags" if "beanbags" not in s3e9p2_visited:
+            call s3e9p2_beanbags from _call_s3e9p2_beanbags
 
-# -Yay! I'm excited
-# s3_mc "This is gonna be fun!"
-# Liona "Yeah, babe! We can cover more ground with the two of us. (you get 😍 with LI)"
+    scene s3-dressing-room with dissolve
+    $ new_scene()
 
-# M/iona "Tactics. I like it."
-# elladine "That's settled then. LI and MC will be 'it' while the rest of us hide."
-# Genevieve claps in excitement.
-# genevieve "Ooh, I feel like a kid again!"
-# aj "Me too!"
-# seb "AJ, you are a kid."
-# AJ rolls her eyes.
-# tai "Are we all ready?"
-# tai "Let's cover our eyes."
-# tai "LI, MC, cover your eyes!"
-# You cover your eyes with your hands.
-# tai "3...2...1..."
-# tai "Go!"
-# Liona "100...99...98..."
-# You hear feet hitting the grass and everyone runs off to find a hiding space.
-# LI continues counting down from 100.
-# Liona "Three...two...one!"
-# You take your hands from your eyes.
-# LI grins at you.
-# Liona "I'm going to check the roof terrace!"
-# s3_mc "OK! Good luck!"
-# LI runs off towards the Villa.
-# You look around the empty lawn.
-# thought "I'd better get searching!"
-# Choiceseb "Where do I want to search? (you can only choose 3)"
-# -Bedroom
-# -Hideaway
-# -Lounge
-# -Beanbags
+    "Having searched the rest of the Villa, you enter the dressing room, trying to find the source of the strange noise."
+    "You listen for a few moments, and then the noise repeats, coming from one of the wardrobes."
 
-# You enter the bedroom.
-# thought "Hmm... It looks empty."
-# thought "But that's the whole point of hide and seek."
-# thought "I should look around."
-# You notice a human-shaped lump under the covers of Elladine and Nicky's bed.
-# Choiceseb "There's definitely someone in there..."
-# -Rip the covers off
-# You sneak up to the bed and rip the covers off in one smooth motion.
+    # CHOICE
+    menu:
+        "There's someone in the wardrobe..."
+        "Whip it open":
+            "You approach the door quietly on your tiptoes, before ripping it open as fast as you can."
+        "Fart":
+            $ s3e9p2_fart = True
+            "You let out a fart you've been holding in the whole day."
+            "There is laughing and then coughing from inside the wardrobe, and the person inside starts fumbling for the handle."
+        "Pretend to be a ghost":
+            $ s3e9p2_ghost = True
+            "You creep over to the wardrobe and drag your fingernails across it."
+            "You knock over [s3_other_f]'s make up bag."
+            s3_mc "Ooooooh..."
+            "You rattle a lamp."
+            s3_mc "Oooooooooooooooh..."
+            "You hear laughing from inside the wardrobe."
+            s3_mc "Hey, no laughing!"
+            s3_mc "Come out then, I've found you."
 
-# -Jump on it
-# You prime with your elbow in front of you, and pile-drive onto the lump.
-# Your elbow hits something soft. Pulling back the duvet, you see...
+    if s3_li != "AJ" and s3_li != "Yasmin":
+        "Out of the wardrobe comes maybe the most handsome man you've ever seen."
+        rafi "Hi, nice to meet you. I'm Rafi."
 
-# -Fart on it
-# You sit on the covers and fart.
-# Nothing happens.
-# You peek under the covers.
+        window hide
+        show screen s3_character_profile("rafi") with Pause(3)
+        hide screen s3_character_profile with dissolve
 
-# It's nothing but pillows, arranged in the shape of a human.
-# thought "They're so sneaky."
-# There are a few possible hiding places left. Under the beds, behind the door, or in a large cabinet.
-# Choiceseb "Where should I check next?"
-# -Behind the door
-# You sneak up to the door and whip it closed, revealing what's behind it.
-# There's no one there.
-# thought "Damn."
-# You hear a giggle come from under the beds.
-# Choiceseb "Where do I want to look next? (you can only choose once more)"
-# -Under the beds (same scene as if directly looking under the beds)
-# -In the cabinet
-# You duck down
-# You duck down next to the cabinet, trying to listen out for noises inside.
-# You hear nothing, so you open the cabinet door.
-# There is nothing inside.
-# thought "Damn! Foiled again."
-# thought "Oh, well. I should check another place in the Villa."
+        "{i}Rafi\n
+        -25, actor from Bromley\n
+        -Can cry in command\n
+        -Smooth as his chest{/i}"
 
+    else:
+        "Out of the wardrobe comes one of the most beautiful women you've ever seen."
+        lily "Hey, babe. My name's Lily."
 
-# -In a big cabinet
-# You duck down next to the cabinet, trying to listen out for noises inside.
-# You hear nothing, so you open the cabinet door.
-# There is nothing inside.
-# thought "Damn! Foiled again."
-# thought "I should probably keep looking."
-# You hear a quiet laugh coming from under one of the beds.
-# Choiceseb "Where do I want to look next? (you can only choose once more)"
-# -Under the beds (same scene as if directly looking under the beds)
-# -Behind the door 
-# You sneak up to the door and whip it closed, revealing what's behind it.
-# There's no one there.
-# thought "Damn."
-# thought "Oh, well. I should check another place in the Villa."
+        window hide
+        show screen s3_character_profile("lily") with Pause(3)
+        hide screen s3_character_profile with dissolve
 
-# -Under the beds
-# Slowly, without making a sound, you creep over to the bed on the far side of the room, so you can look under all of them at once.
-# You duck down, getting down on your belly and...
-# Genevieve and Seb are staring at you, only a few inches away.
-# genevieve "Damn it."
-# seb "Thought we'd get away with it when you fell for Mr. Pillow."
-# s3_mc "That was crafty, sure, but I'm craftier."
-# You help them out from under the bed.
-# genevieve "I understand why cats find somewhere warm and small now. That was cosy!"
-# seb "I wouldn't put it that way."
-# genevieve "You don't like being pressed up against me?"
-# seb "That's a whole other question."
-# seb "Speaking of cats, I wonder if mine has had her kittens by now?"
-# s3_mc "Your cat's pregnant? (makes only sense if Seb is not BFF)"
-# seb "Yeah! She's due this week sometime."
-# genevieve "Only you could turn a flirty conversation into one about kittens."
-# seb "You're into it."
-# genevieve "Sadly, I am."
-# They head out towards the lawn, holding hands.
+        "{i}Lily\n
+        -23, from North West London\n
+        -Industrial Design student\n
+        -Really good with her hands{/i}"
 
-
-# You tip-toe into the hideaway, trying to keep quiet and surprise whoever might be in there.
-# But then, sitting in the hot tub, you spot... 
-# (if MC is coupled with Bill/Camilo i'ts Miki/Iona and Harry otherwise it's Miki/Iona and Bill/Camilo, depending on who was dumped)
-# M/iona "So yeah, that's why I always make sure to scrub extra hard."
-# B/H/camilo "Fascinating."
-# They spot you, and Bill/Harry/Camilo waves at you.
-# B/H/camilo "Hey, MC!"
-# M/iona "Hey, girl! Join us!"
-# Choiceseb "They want me to get in the hot tub..."
-# -Hot tubs are overrated
-# s3_mc "Like, you get all sweaty and there are so many bubbles."
-# s3_mc "And someone could totally fart in it, and you'd have no idea."
-# M/iona "That's not true..."
-# M/iona "Is it Bill/Harry/Camilo?"
-# Bill/Harry/Camilo looks down.
-# B/H/camilo "No comment."
-
-# -OK! I'm getting in!
-# s3_mc "You guys have the right idea."
-# You slip into the hot tub with them, and they cheer. The water is hot, but pleasant. (you get 😍 with Miki/Iona and Bill/Harry/Camilo)
-# You settle your feet over a jet and let it massage you.
-
-# -You're not playing!
-# s3_mc "You're not taking it seriously!"
-# B/H/camilo "Hey, Tai said we need to relax. So here we are."
-# B/H/camilo "Relaxing!"
-
-# M/iona "Settle this argument for us, MC."
-# M/iona "Do you wash your legs in the shower?"
-# s3_mc "How long have you been talking about this for?"
-# B/H/camilo "Oh, ages. I'm in the 'no' team."
-# B/H/camilo "The flowing water does all the work."
-# M/iona "That's so gross!"
-# M/iona "What do you think, MC?"
-# Choiceseb "Do I wash my legs in the shower?"
-# -This is silly
-# -Yes
-# s3_mc "Yes, of course. I wash everywhere. Otherwise you're not clean."
-# s3_mc "If you just clean your pits, you have clean pits, and dirty everywhere else."
-# M/iona "Thank you! (you get 😍 with Miki/Iona)"
-# B/H/camilo "You guys are wasting so much shower gel."
-
-# -No
-# s3_mc "No! My legs don't get dirty, they're in clothes all day."
-# s3_mc "Even here, where they're out, they don't get dirty."
-# B/H/camilo "Thank you! (you get 😍 with Bill/Harry/Camilo)"
-# B/H/camilo "If I had stinky legs, someone would have told me by now, 'hey, mate, your legs stink'."
-
-# -I'd wash your legs, Camilo/Bill/Harry
-# s3_mc "If you know what I mean."
-# B/H/camilo "Hey... you can't make leg-washing sexy"
-# M/iona "Yeah. Stick to washing LI's legs."
-
-# M/iona "I've always washed mine. When I started growing hair on my legs, my mum didn't want me to shave yet, so she told me it was dirt."
-# M/iona "Ever since then, I've done it every day."
-# s3_mc "Well, this has been some riveting conversation..."
-# You hear noises coming from the VIlla.
-# s3_mc "What was that?"
-# M/iona "I don't know!"
-# s3_mc "You two should head to the lawn."
-# M/iona "We're just getting comfortable..."
-# s3_mc "Tough. I caught you. Back you go. I'll check out the noise."
-# B/H/camilo "You're no fun."
-# Miki/Iona and Bill/Harry/Camilo get out of the tub and start drying themselves off.
-# thought "I should investigate that noise..."
-
-# You enter the lounge. It seems to be empty, but on closer inspection, you spot something...
-# There is a tuft of hair poking up behind one of the sofas.
-# It looks like Nicky's.
-# thought "Nicky is definitely hiding behind that sofa."
-# Choiceseb "What should I do?"
-# -Tell him to come out
-# s3_mc "Nicky, I see your hair."
-# s3_mc "It's over for you."
-# Nicky pokes the rest of his head out, pouting.
-# nicky "No fair. Hide and seek is hard when you have gorgeous hair like me."
-# s3_mc "Life is so unfair, isn't it, Nicky?"
-
-# -Trash talk Nicky
-# s3_mc "Oh, I'm so glad Nicky isn't here. I can finally get some peace and quiet."
-# s3_mc "You know, I really hate his... face."
-# s3_mc "And his... arms."
-# nicky "My arms?"
-# His head pops out from behind the sofa.
-# nicky "What's wrong with my arms?"
-# s3_mc "Nothing. Just needed to get you out of your hidey-hole."
-# nicky "I knew my arms were perfect. MC, you're well cheeky."
-
-# -Sneak up on him
-# You duck down, keeping on your tiptoes as you cross the room to the sofa.
-# You round the corner and prepare to strike...
-# Suddenly, Nicky jumps out at you.
-# You scream, jumping backwards, as he laughs.
-# nicky "Oh, MC. You underestimate me."
-# s3_mc "No fair! I'm supposed to be finding you!"
-# nicky "And you did. Congrats. I just thought I'd have some fun with it first. "
-
-# You peek around the corner of the sofa and see Elladine curled up behind Nicky. She waves.
-# elladine "Hi, MC. What's up."
-# s3_mc "Nothing much. Just kicking this game's arse."
-# elladine "Good for you!"
-# nicky "This is the perfect afternoon, honestly. We get to just chillax here behind a sofa, and you do all the hard work."
-# elladine "I'd rather be doing the catching. At least then you have some control."
-# elladine "What do you think, MC?"
-# Choiceseb "Would I rather hide or seek?"
-# -Hide
-# s3_mc "You guys have just been sitting down all day."
-# s3_mc "I've been running around like a headless chicken."
-# s3_mc "I'd much rather be in your shoes."
-# elladine "Yeah, I suppose you're right."
-
-# -Seek
-# s3_mc "Then when LI and I win, we get bragging rights."
-# nicky "Aw, I want bragging rights."
-# elladine "Yeah, I suppose you're right."
-
-# -Not play at all
-# s3_mc "I'm finding this kind of boring, if I'm honest."
-# s3_mc "It's a game for kids. I don't think it was designed to entertain adults."
-# elladine "Hey, I'm having a good time."
-
-# elladine "I dunno why we stop playing these games when we get to adulthood."
-# elladine "One day you play for the last time, and just never play again. It's sad."
-# nicky "Not for us! I'm 24 and I'm loving this. I'd say that's a win for my childhood self."
-# elladine "I wish there was a playground for adults, with enough room for us to fit on the slides and stuff."
-# elladine "Maybe we can find one when we get out. Or just go to a kid's one."
-# nicky "We can't go to a kids' one! They'll arrest us."
-# Choiceseb "Elladine wants to go to a playground..."
-# -It's weird
-# -I'm in!
-# s3_mc "Nicky, it won't be weird if we go at night or something."
-# s3_mc "Sometimes you have to just be a kid again."
-# nicky "OK, decent point. I'm in, then."
-# nicky "Ooh, we have plans to hang out on the outside!"
-# nicky "And my teachers said I was anti-social..."
-
-# -Maybe an adult one
-# s3_mc "I'd feel weird on a kids one, and probably squashed."
-# elladine "That has to exist, right? Like, somewhere in London."
-# nicky "Something to make all the ageing hipsters feel young again."
-# elladine "Let's find it."
-# nicky "Maybe when we get out."
-# nicky "Although, I don't know how much time we'll all end up spending together..."
-
-# elladine "I took it as a given we were meeting up outside, babe."
-# nicky "As long as you play your cards right."
-# They start making eyes at each other.
-# s3_mc "I'm gonna search somewhere else."
-# s3_mc "Get over to the lawn, losers."
-
-# As you approach the beanbags, you notice that they are piled up in an unusual way, with what looks like a little peep hole.
-# It almost seems like someone is hiding beneath them...
-# You sneak a little closer and hear two voices, chatting about what they're going to do when they win the game.
-# Choiceseb "There's definitely someone in that fort... (no further reactions)"
-# -Eavesdrop more
-# -Close up the peep hole
-# -Sneak up and scare them
-
-# You tiptoe closer to the beanbags, edging carefully towards the peep hole.
-# A hand suddenly sticks out.
-# (AJ+Tai if MC is coupled with Ciaran, AJ+Ciaran if MC is not coupled with Ciaran/AJ/Yasmin, Tai+Ciaran if MC is coupled with Yasmin or AJ):
-# AJ(MC not coupled with AJ/Yasmin)/ T(MC coupled with AJ/Yasmin): I'm gonna get some air. I can't stand it in here.
-# C(MC coupled with AJ/Yasmin): Yeah it is. 
-# AJ(MC not coupled with AJ/Yasmin) / Tai(MC coupled with AJ/Yasmin) pokes her/his head out.
-# You're almost spotted but you dive out of the way just in time.
-# AJ(MC not coupled with AJ/Yasmin)/ C(MC coupled with AJ/Yasmin): I heard something!
-# C(MC not coupled with Yasmin/AJ/Ciaran)/ T(MC coupled with Yasmin/AJ/Ciaran): Hello? Is there someone there?
-# Choiceseb "What should I do now?"
-# -Continue sneaking
-# You get on your tiptoes and start sneaking closer.
-
-# -Reveal yourself
-# s3_mc "Jig's up, guys. I've found ya."
-# C(MC not coupled with Yasmin/AJ/Ciaran)/ T(MC coupled with Yasmin/AJ/Ciaran): No you haven't.
-
-# -Pretend to be Iona
-# You put on your best Scottish accent.
-# s3_mc "Och aye, what are yous doin' in 'ere?"
-# You hear muffled laughter coming from the beanbags. (you get 😂 with AJ/Tai/ Ciaran, depending who pair is hiding)
-# s3_mc "Ayve come back to the Villa to haunt ye! (Iona got dumped)"
-# s3_mc "Dinnae mock me! I'll rig a pylon up ye! (Iona didn't get dumped)"
-
-# You round the corner to the beanbags...
-# AJ and Tai stare at you from under the beanbags.
-# Ciaran and Tai stare at you from under the beanbags. (MC coupled with AJ/Yasmin)
-# AJ and Ciaran stare at you from under the beanbags. (MC not coupled with AJ/Yasmin/Ciaran).
-# (MC coupled with AJ/Yasmin):
-# Their cheeks are flushed.(MC coupled with AJ/Yasmin)  
-# s3_mc "Sorry, am I interrupting something?(MC coupled with AJ/Yasmin)"
-# tai "We were just.. Um...(MC coupled with AJ/Yasmin)"
-# ciaran "Just having a conversation about, like, us...(MC coupled with AJ/Yasmin)"
-# s3_mc "Well, you should have hid somewhere better to do it.(MC coupled with AJ/Yasmin)"
-# s3_mc "Get up, you two.(MC coupled with AJ/Yasmin)"
-#  (MC not coupled with AJ/Yasmin/Ciaran):
-# ciaran "Aw, I thought we were doing good."
-# s3_mc "You were talking."
-# aj "Yeah, well, we got bored."
-# ciaran "Yeah, you took ages."
-# s3_mc "How is this now my fault? Get out of there, you two."
-# tai "Would have done if it weren't for this meddling kid."
-# s3_mc "You're just a sore loser. Get out of there."
-# They get up from under the beanbags, dusting themselves off.
-# s3_mc "You should head over to the lawn with the rest of the losers."
-# s3_mc "Losers."
-#  (MC not coupled with AJ/Yasmin/Ciaran):
-# ciaran "You are not a good winner, MC."
-# aj "Give us another chance to hide, will you? Please? It's my birthday!"
-# ciaran "Pretty please?"
-# aj "With a blueberry?"
-# s3_mc "Isn't it a cherry?"
-# aj "I prefer a blueberry."
-# ciaran "You are not a good winner, MC.(MC coupled with AJ/Yasmin)"
-# tai "C'mon, give us another chance to hide.(MC coupled with AJ/Yasmin)"
-# s3_mc "So you can go off and canoodle again?(MC coupled with AJ/Yasmin)"
-# tai "'Canoodle'? Are you eighty?(MC coupled with AJ/Yasmin)"
-# aj "MC, I'm hurt."
-# aj "For that insult, you must give us another turn."
-# tai "Yeah, let us hide again! Please?"
-# aj "It's my birthday..."
-# Choiceseb "Shall I give them another chance?"
-# -Yes
-# s3_mc "Fine, but only one more."
-# C/tai "Yay! (you get 😍 with Ciaran/Tai)"
-# AJ(MC not coupled with AJ/Yasmin) / T(MC coupled with AJ/Yasmin): Thanks, MC. I'll consider this my birthday present.
-
-# -No
-# s3_mc "No one else is getting a second chance."
-# s3_mc "It wouldn't be fair."
-# C(MC not coupled with AJ/Yasmin/Ciaran) /T(MC coupled with AJ/Yasmin): True. But consider this...
-
-# -Do you understand the game?
-# s3_mc "The whole point is you hide, then you get caught."
-# s3_mc "That's the game. No second chances."
-# C(MC not coupled with AJ/Yasmin/Ciaran) /T(MC coupled with AJ/Yasmin): You're right, MC.
-# C(MC not coupled with AJ/Yasmin/Ciaran) /T(MC coupled with AJ/Yasmin): But consider this...
-
-# The two of them bolt away gleefully before you can say anything else.
-# thought "I guess they took that second chance anyway."
-# You roll your eyes.
-# thought "Children."
-# You hear a noise from over by the Villa.
-# thought "Maybe I should investigate that..."
-
-
-# Having searched the rest of the Villa, you enter the dressing room, trying to find the source of the strange noise.
-# You listen for a few moments, and then the noise repeats, coming from one of the wardrobes.
-# Choiceseb "There's someone in the wardrobe..."
-# -Whip it open
-# You approach the door quietly on your tiptoes, before ripping it open as fast as you can.
-
-# -Fart
-# You let out a fart you've been holding in the whole day.
-# There is laughing and then coughing from inside the wardrobe, and the person inside starts fumbling for the handle.
-
-# -Pretend to be a ghost
-# You creep over to the wardrobe and drag your fingernails across it.
-# You knock over Miki's/Iona's make up bag.
-# s3_mc "Ooooooh..."
-# You rattle a lamp.
-# s3_mc "Oooooooooooooooh..."
-# You hear laughing from inside the wardrobe.
-# s3_mc "Hey, no laughing!"
-# s3_mc "Come out then, I've found you."
-
-# Out of the wardrobe comes maybe the most handsome man you've ever seen.
-# Rafiona "Hi, nice to meet you. I'm Rafi."
-# Rafi
-# -25, actor from Bromley
-# -Can cry in command
-# -Smooth as his chest
-
-# Out of the wardrobe comes one of the most beautiful women you've ever seen.
-# Lilyasmin "Hey, babe. My name's Lily."
-# Lily
-# -23, from North West London
-# -Industrial Design student
-# -Really good with her hands
-
-# Against your better judgement, you find yourself blushing.
-# s3_mc "Hi, I'm MC."
-# s3_mc "I wouldn't have done that if I knew you were a stranger...(fart)"
+    "Against your better judgement, you find yourself blushing."
+    s3_mc "Hi, I'm [s3_name]."
+    if s3e9p2_fart == True:
+        s3_mc "I wouldn't have done that if I knew you were a stranger..."
 # R/L: Don't worry about it. We won't be strangers for long.(fart)
-# s3_mc "Did you hear that ghost?(ghost)"
+    if s3e9p2_ghost == True:
+        s3_mc "Did you hear that ghost?"
 # R/L: That horribly unconvincing ghost?(ghost)
 # R/L: I may have heard something, yeah.(ghost)
 # R/L: And can I just say, that getup looks even more impressive in real life than on the telly.
 # R/L: And can I just say, I couldn't have asked for a better-looking girl to find me. That getup looks incredible.
 # R/L: And you are even more stunning in real life, by the way. Whatever you're wearing.
-# s3_mc "How long have you been in there?"
+    s3_mc "How long have you been in there?"
 # R/L: Not long. Thought I'd join the game. Give you a fun surprise to find.
 # [he_she] winks at you. You blush harder.
 # R/L: I've been wanting to meet you for ages, MC. Watching you on the telly, I knew we'd get along.
-# s3_mc "Oh yeah? What is it about me?"
+    s3_mc "Oh yeah? What is it about me?"
 # R/L: Well, the thing that made you really stick out to me was your secret in the first challenge.
 # R/L: We're both attracted to thunder.
 # s3_mc "I thought I was the only one!"
@@ -2174,27 +542,535 @@
 # R/L: Maybe the shiny demon is back...
 # bff "Or MC isn't as subtle as she thought."
 # Liona "Well, nice to meet you, Rafi/Lily."
-# harry "There's loads of us now!"
-# harry "There'll be no keeping track."
+    harry "There's loads of us now!"
+    harry "There'll be no keeping track."
 # L/R: I think some people are more memorable than others...
 # Lily/Rafi looks at LI, who blushes.
-# You consider saying something, but a text comes in before you get the chance.
+    "You consider saying something, but a text comes in before you get the chance."
 # Rafi/Lily pulls out his phone excitedly.
 # R/L: My first text!
-# text "Islanders, it's time to check out what your nearest and dearest think of you in the Hook A Secret Challenge! #fishingforcompliments #hooklineandsinker #koibye"
-# elladine "What's with all the talk about fish? I don't get it."
+    text "Islanders, it's time to check out what your nearest and dearest think of you in the Hook A Secret Challenge! #fishingforcompliments #hooklineandsinker #koibye"
+    elladine "What's with all the talk about fish? I don't get it."
 
-# "Oh, Elladine. You sweet summer child."
-# "Next time..."
-# "LI flounders..."
-# Liona "I can't decide that!"
-# "And MC as a fin-tastic idea."
-# s3_mc "We could have fun with this."
-# "Cod help us."
-# "Catch you soon on Love Island!"
+    "Oh, Elladine. You sweet summer child."
+    "Next time..."
+    "[s3_li] flounders..."
+    s3_li "I can't decide that!"
+    "And [s3_name] has a fin-tastic idea."
+    s3_mc "We could have fun with this."
+    "Cod help us."
+    "Catch you soon on Love Island!"
 
 
+label s3e9p2_bedroom:
+    scene s3-bedroom-day with dissolve
+    $ new_scene()
+    $ s3e9p2_visited.append("bedroom")
 
+    "You enter the bedroom."
+    thought "Hmm... It looks empty."
+    thought "But that's the whole point of hide and seek."
+    thought "I should look around."
+    "You notice a human-shaped lump under the covers of Elladine and Nicky's bed."
+    
+    # CHOICE
+    menu:
+        "There's definitely someone in there..."
+        "Rip the covers off":
+            "You sneak up to the bed and rip the covers off in one smooth motion."
+        "Jump on it":
+            "You prime with your elbow in front of you, and pile-drive onto the lump."
+            "Your elbow hits something soft. Pulling back the duvet, you see..."
+        "Fart on it":
+            "You sit on the covers and fart."
+            "Nothing happens."
+            "You peek under the covers."
+
+    "It's nothing but pillows, arranged in the shape of a human."
+    thought "They're so sneaky."
+    "There are a few possible hiding places left. Under the beds, behind the door, or in a large cabinet."
+    
+    # CHOICE
+    menu:
+        "Where should I check next?"
+        "Behind the door":
+            "You sneak up to the door and whip it closed, revealing what's behind it."
+            "There's no one there."
+            thought "Damn."
+            "You hear a giggle come from under the beds."
+
+            # CHOICE
+            menu:
+                "Where do I want to look next?" # (you can only choose once more)
+                "Under the beds":
+                    "Slowly, without making a sound, you creep over to the bed on the far side of the room, so you can look under all of them at once."
+                    "You duck down, getting down on your belly and..."
+                    "Genevieve and Seb are staring at you, only a few inches away."
+                    genevieve "Damn it."
+                    seb "Thought we'd get away with it when you fell for Mr. Pillow."
+                    s3_mc "That was crafty, sure, but I'm craftier."
+                    "You help them out from under the bed."
+                    genevieve "I understand why cats find somewhere warm and small now. That was cosy!"
+                    seb "I wouldn't put it that way."
+                    genevieve "You don't like being pressed up against me?"
+                    seb "That's a whole other question."
+                    seb "Speaking of cats, I wonder if mine has had her kittens by now?"
+                    if s3_mc.bff != "Seb": #(makes only sense if Seb is not BFF)
+                        s3_mc "Your cat's pregnant?" 
+                        seb "Yeah! She's due this week sometime."
+                    genevieve "Only you could turn a flirty conversation into one about kittens."
+                    seb "You're into it."
+                    genevieve "Sadly, I am."
+                    "They head out towards the lawn, holding hands."
+                "In the cabinet":
+                    "You duck down next to the cabinet, trying to listen out for noises inside."
+                    "You hear nothing, so you open the cabinet door."
+                    "There is nothing inside."
+                    thought "Damn! Foiled again."
+                    thought "Oh, well. I should check another place in the Villa."
+
+        "In a big cabinet":
+            "You duck down next to the cabinet, trying to listen out for noises inside."
+            "You hear nothing, so you open the cabinet door."
+            "There is nothing inside."
+            thought "Damn! Foiled again."
+            thought "I should probably keep looking."
+            "You hear a quiet laugh coming from under one of the beds."
+            
+            # CHOICE
+            menu:
+                "Where do I want to look next?"
+                "Under the beds":
+                    "Slowly, without making a sound, you creep over to the bed on the far side of the room, so you can look under all of them at once."
+                    "You duck down, getting down on your belly and..."
+                    "Genevieve and Seb are staring at you, only a few inches away."
+                    genevieve "Damn it."
+                    seb "Thought we'd get away with it when you fell for Mr. Pillow."
+                    s3_mc "That was crafty, sure, but I'm craftier."
+                    "You help them out from under the bed."
+                    genevieve "I understand why cats find somewhere warm and small now. That was cosy!"
+                    seb "I wouldn't put it that way."
+                    genevieve "You don't like being pressed up against me?"
+                    seb "That's a whole other question."
+                    seb "Speaking of cats, I wonder if mine has had her kittens by now?"
+                    if s3_mc.bff != "Seb": #(makes only sense if Seb is not BFF)
+                        s3_mc "Your cat's pregnant?" 
+                        seb "Yeah! She's due this week sometime."
+                    genevieve "Only you could turn a flirty conversation into one about kittens."
+                    seb "You're into it."
+                    genevieve "Sadly, I am."
+                    "They head out towards the lawn, holding hands."                    
+                "Behind the door":
+                    "You sneak up to the door and whip it closed, revealing what's behind it."
+                    "There's no one there."
+                    thought "Damn."
+                    thought "Oh, well. I should check another place in the Villa."
+
+        "Under the beds":
+            "Slowly, without making a sound, you creep over to the bed on the far side of the room, so you can look under all of them at once."
+            "You duck down, getting down on your belly and..."
+            "Genevieve and Seb are staring at you, only a few inches away."
+            genevieve "Damn it."
+            seb "Thought we'd get away with it when you fell for Mr. Pillow."
+            s3_mc "That was crafty, sure, but I'm craftier."
+            "You help them out from under the bed."
+            genevieve "I understand why cats find somewhere warm and small now. That was cosy!"
+            seb "I wouldn't put it that way."
+            genevieve "You don't like being pressed up against me?"
+            seb "That's a whole other question."
+            seb "Speaking of cats, I wonder if mine has had her kittens by now?"
+            if s3_mc.bff != "Seb": #(makes only sense if Seb is not BFF)
+                s3_mc "Your cat's pregnant?" 
+                seb "Yeah! She's due this week sometime."
+            genevieve "Only you could turn a flirty conversation into one about kittens."
+            seb "You're into it."
+            genevieve "Sadly, I am."
+            "They head out towards the lawn, holding hands."
+
+    return
+
+
+label s3e9p2_hideaway:
+    scene s3-hideaway-day with dissolve
+    $ new_scene()
+    $ s3e9p2_visited.append("hideaway")
+
+    "You tip-toe into the hideaway, trying to keep quiet and surprise whoever might be in there."
+    "But then, sitting in the hot tub, you spot..."
+    if s3_li == "Bill" or s3_li == "Camilo":
+        s3_other_f "So yeah, that's why I always make sure to scrub extra hard."
+        harry "Fascinating."
+        "They spot you, and Harry waves at you."
+        harry "Hey, [s3_name]!"
+        s3_other_f "Hey, girl! Join us!"
+
+        # CHOICE
+        menu:
+            "They want me to get in the hot tub..."
+            "Hot tubs are overrated":
+                s3_mc "Like, you get all sweaty and there are so many bubbles."
+                s3_mc "And someone could totally fart in it, and you'd have no idea."
+                s3_other_f "That's not true..."
+                s3_other_f "Is it Harry?"
+                "Harry looks down."
+                harry "No comment."
+            "OK! I'm getting in!":
+                s3_mc "You guys have the right idea."
+                "You slip into the hot tub with them, and they cheer. The water is hot, but pleasant." #(you get 😍 with Miki/Iona and Bill/Harry/Camilo)
+                "You settle your feet over a jet and let it massage you."
+            "You're not playing!":
+                s3_mc "You're not taking it seriously!"
+                harry "Hey, Tai said we need to relax. So here we are."
+                harry "Relaxing!"
+
+        s3_other_f "Settle this argument for us, [s3_name]."
+        s3_other_f "Do you wash your legs in the shower?"
+        s3_mc "How long have you been talking about this for?"
+        harry "Oh, ages. I'm in the 'no' team."
+        harry "The flowing water does all the work."
+        s3_other_f "That's so gross!"
+        s3_other_f "What do you think, [s3_name]?"
+
+        # CHOICE
+        menu:
+            "Do I wash my legs in the shower?"
+            "This is silly":
+                # NEED TO FILL
+                "EMPTY"
+            "Yes":
+                s3_mc "Yes, of course. I wash everywhere. Otherwise you're not clean."
+                s3_mc "If you just clean your pits, you have clean pits, and dirty everywhere else."
+                s3_other_f "Thank you!" #(you get 😍 with Miki/Iona)
+                harry "You guys are wasting so much shower gel."
+            "No":
+                s3_mc "No! My legs don't get dirty, they're in clothes all day."
+                s3_mc "Even here, where they're out, they don't get dirty."
+                harry "Thank you!" #(you get 😍 with Bill/Harry/Camilo)
+                harry "If I had stinky legs, someone would have told me by now, 'hey, mate, your legs stink'."
+            "I'd wash your legs, Harry":
+                s3_mc "If you know what I mean."
+                harry "Hey... you can't make leg-washing sexy"
+                s3_other_f "Yeah. Stick to washing [s3_li]'s legs."
+
+        s3_other_f "I've always washed mine. When I started growing hair on my legs, my mum didn't want me to shave yet, so she told me it was dirt."
+        s3_other_f "Ever since then, I've done it every day."
+        s3_mc "Well, this has been some riveting conversation..."
+        "You hear noises coming from the Villa."
+        s3_mc "What was that?"
+        s3_other_f "I don't know!"
+        s3_mc "You two should head to the lawn."
+        s3_other_f "We're just getting comfortable..."
+        s3_mc "Tough. I caught you. Back you go. I'll check out the noise."
+        harry "You're no fun."
+        "[s3_other_f] and Harry get out of the tub and start drying themselves off."
+        thought "I should investigate that noise..."
+    
+    else:
+        s3_other_f "So yeah, that's why I always make sure to scrub extra hard."
+        s3_other_m "Fascinating."
+        "They spot you, and [s3_other_m] waves at you."
+        s3_other_m "Hey, [s3_name]!"
+        s3_other_f "Hey, girl! Join us!"
+
+        # CHOICE
+        menu:
+            "They want me to get in the hot tub..."
+            "Hot tubs are overrated":
+                s3_mc "Like, you get all sweaty and there are so many bubbles."
+                s3_mc "And someone could totally fart in it, and you'd have no idea."
+                s3_other_f "That's not true..."
+                s3_other_f "Is it [s3_other_m]]?"
+                "[s3_other_m] looks down."
+                s3_other_m "No comment."
+            "OK! I'm getting in!":
+                s3_mc "You guys have the right idea."
+                "You slip into the hot tub with them, and they cheer. The water is hot, but pleasant." #(you get 😍 with Miki/Iona and Bill/Harry/Camilo)
+                "You settle your feet over a jet and let it massage you."
+            "You're not playing!":
+                s3_mc "You're not taking it seriously!"
+                s3_other_m "Hey, Tai said we need to relax. So here we are."
+                s3_other_m "Relaxing!"
+
+        s3_other_f "Settle this argument for us, [s3_name]."
+        s3_other_f "Do you wash your legs in the shower?"
+        s3_mc "How long have you been talking about this for?"
+        s3_other_m "Oh, ages. I'm in the 'no' team."
+        s3_other_m "The flowing water does all the work."
+        s3_other_f "That's so gross!"
+        s3_other_f "What do you think, [s3_name]?"
+
+        # CHOICE
+        menu:
+            "Do I wash my legs in the shower?"
+            "This is silly":
+                # NEED TO FILL
+                "EMPTY"
+            "Yes":
+                s3_mc "Yes, of course. I wash everywhere. Otherwise you're not clean."
+                s3_mc "If you just clean your pits, you have clean pits, and dirty everywhere else."
+                s3_other_f "Thank you!" #(you get 😍 with Miki/Iona)
+                s3_other_m "You guys are wasting so much shower gel."
+            "No":
+                s3_mc "No! My legs don't get dirty, they're in clothes all day."
+                s3_mc "Even here, where they're out, they don't get dirty."
+                s3_other_m "Thank you!" #(you get 😍 with Bill/Harry/Camilo)
+                s3_other_m "If I had stinky legs, someone would have told me by now, 'hey, mate, your legs stink'."
+            "I'd wash your legs, [s3_other_m]":
+                s3_mc "If you know what I mean."
+                s3_other_m "Hey... you can't make leg-washing sexy"
+                s3_other_f "Yeah. Stick to washing [s3_li]'s legs."
+
+        s3_other_f "I've always washed mine. When I started growing hair on my legs, my mum didn't want me to shave yet, so she told me it was dirt."
+        s3_other_f "Ever since then, I've done it every day."
+        s3_mc "Well, this has been some riveting conversation..."
+        "You hear noises coming from the Villa."
+        s3_mc "What was that?"
+        s3_other_f "I don't know!"
+        s3_mc "You two should head to the lawn."
+        s3_other_f "We're just getting comfortable..."
+        s3_mc "Tough. I caught you. Back you go. I'll check out the noise."
+        s3_other_m "You're no fun."
+        "[s3_other_f] and [s3_other_m] get out of the tub and start drying themselves off."
+        thought "I should investigate that noise..."
+
+    return
+
+label s3e9p2_lounge:
+    scene s3-lounge-day with dissolve
+    $ new_scene()
+    $ s3e9p2_visited.append("lounge")
+    
+    "You enter the lounge. It seems to be empty, but on closer inspection, you spot something..."
+    "There is a tuft of hair poking up behind one of the sofas."
+    "It looks like Nicky's."
+    thought "Nicky is definitely hiding behind that sofa."
+
+    # CHOICE
+    menu:
+        "What should I do?"
+        "Tell him to come out":
+            s3_mc "Nicky, I see your hair."
+            s3_mc "It's over for you."
+            "Nicky pokes the rest of his head out, pouting."
+            nicky "No fair. Hide and seek is hard when you have gorgeous hair like me."
+            s3_mc "Life is so unfair, isn't it, Nicky?"
+        "Trash talk Nicky":
+            s3_mc "Oh, I'm so glad Nicky isn't here. I can finally get some peace and quiet."
+            s3_mc "You know, I really hate his... face."
+            s3_mc "And his... arms."
+            nicky "My arms?"
+            "His head pops out from behind the sofa."
+            nicky "What's wrong with my arms?"
+            s3_mc "Nothing. Just needed to get you out of your hidey-hole."
+            nicky "I knew my arms were perfect. [s3_name], you're well cheeky."
+        "Sneak up on him":
+            "You duck down, keeping on your tiptoes as you cross the room to the sofa."
+            "You round the corner and prepare to strike..."
+            "Suddenly, Nicky jumps out at you."
+            "You scream, jumping backwards, as he laughs."
+            nicky "Oh, [s3_name]. You underestimate me."
+            s3_mc "No fair! I'm supposed to be finding you!"
+            nicky "And you did. Congrats. I just thought I'd have some fun with it first. "
+
+    "You peek around the corner of the sofa and see Elladine curled up behind Nicky. She waves."
+    elladine "Hi, [s3_name]. What's up."
+    s3_mc "Nothing much. Just kicking this game's arse."
+    elladine "Good for you!"
+    nicky "This is the perfect afternoon, honestly. We get to just chillax here behind a sofa, and you do all the hard work."
+    elladine "I'd rather be doing the catching. At least then you have some control."
+    elladine "What do you think, [s3_name]?"
+
+    # CHOICE
+    menu:
+        "Would I rather hide or seek?"
+        "Hide":
+            s3_mc "You guys have just been sitting down all day."
+            s3_mc "I've been running around like a headless chicken."
+            s3_mc "I'd much rather be in your shoes."
+            elladine "Yeah, I suppose you're right."
+
+        "Seek":
+            s3_mc "Then when [s3_li] and I win, we get bragging rights."
+            nicky "Aw, I want bragging rights."
+            elladine "Yeah, I suppose you're right."
+        "Not play at all":
+            s3_mc "I'm finding this kind of boring, if I'm honest."
+            s3_mc "It's a game for kids. I don't think it was designed to entertain adults."
+            elladine "Hey, I'm having a good time."
+
+    elladine "I dunno why we stop playing these games when we get to adulthood."
+    elladine "One day you play for the last time, and just never play again. It's sad."
+    nicky "Not for us! I'm 24 and I'm loving this. I'd say that's a win for my childhood self."
+    elladine "I wish there was a playground for adults, with enough room for us to fit on the slides and stuff."
+    elladine "Maybe we can find one when we get out. Or just go to a kid's one."
+    nicky "We can't go to a kids' one! They'll arrest us."
+
+    # CHOICE
+    menu:
+        "Elladine wants to go to a playground..."
+        "It's weird":
+            # NEED TO FILL
+            "EMPTY"
+        "I'm in!":
+            s3_mc "Nicky, it won't be weird if we go at night or something."
+            s3_mc "Sometimes you have to just be a kid again."
+            nicky "OK, decent point. I'm in, then."
+            nicky "Ooh, we have plans to hang out on the outside!"
+            nicky "And my teachers said I was anti-social..."
+        "Maybe an adult one":
+            s3_mc "I'd feel weird on a kids one, and probably squashed."
+            elladine "That has to exist, right? Like, somewhere in London."
+            nicky "Something to make all the ageing hipsters feel young again."
+            elladine "Let's find it."
+            nicky "Maybe when we get out."
+            nicky "Although, I don't know how much time we'll all end up spending together..."
+
+    elladine "I took it as a given we were meeting up outside, babe."
+    nicky "As long as you play your cards right."
+    "They start making eyes at each other."
+    s3_mc "I'm gonna search somewhere else."
+    s3_mc "Get over to the lawn, losers."
+
+    return
+
+label s3e9p2_beanbags:
+    scene s3-bean-bags-day with dissolve
+    $ new_scene()
+    $ s3e9p2_visited.append("beanbags")
+
+    "As you approach the beanbags, you notice that they are piled up in an unusual way, with what looks like a little peep hole."
+    "It almost seems like someone is hiding beneath them..."
+    "You sneak a little closer and hear two voices, chatting about what they're going to do when they win the game."
+
+    # CHOICE
+    menu:
+        "There's definitely someone in that fort..."
+        "Eavesdrop more":
+            pass
+        "Close up the peep hole":
+            pass
+        "Sneak up and scare them":
+            pass
+
+    "You tiptoe closer to the beanbags, edging carefully towards the peep hole."
+    "A hand suddenly sticks out."
+
+    if s3_li != "Yasmin" and s3_li != "AJ":
+        aj "I'm gonna get some air. I can't stand it in here."
+        "AJ pokes her head out."
+        "You're almost spotted but you dive out of the way just in time."
+        aj "I heard something!"
+    else:
+        tai "I'm gonna get some air. It's too hot under here."
+        ciaran "Yeah it is." 
+        "Tai pokes his head out."
+        "You're almost spotted but you dive out of the way just in time."
+        ciaran "I heard something!"
+    if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+        ciaran "Hello? Is there someone there?"
+    else:
+        tai "Hello? Is there someone there?"
+
+    # CHOICE
+    menu:
+        "What should I do now?"
+        "Continue sneaking":
+            "You get on your tiptoes and start sneaking closer."
+        "Reveal yourself":
+            s3_mc "Jig's up, guys. I've found ya."
+            if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+                ciaran "No you haven't."
+            else:
+                tai "No you haven't."
+        "Pretend to be Iona":
+            "You put on your best Scottish accent."
+            s3_mc "Och aye, what are yous doin' in 'ere?"
+            "You hear muffled laughter coming from the beanbags." #(you get 😂 with AJ/Tai/ Ciaran, depending who pair is hiding)
+            if s3_other_f = "Miki":
+                s3_mc "Ayve come back to the Villa to haunt ye!"
+            else:
+                s3_mc "Dinnae mock me! I'll rig a pylon up ye!"
+
+    "You round the corner to the beanbags..."
+    if s3_li == "Ciaran":
+        "AJ and Tai stare at you from under the beanbags."
+    elif s3_li == "AJ" or s3_li == "Yasmin":
+        "Ciaran and Tai stare at you from under the beanbags."
+    else:
+        "AJ and Ciaran stare at you from under the beanbags."
+    if s3_li == "AJ" or s3_li == "Yasmin":
+        "Their cheeks are flushed."
+        s3_mc "Sorry, am I interrupting something?"
+        tai "We were just.. Um..."
+        ciaran "Just having a conversation about, like, us..."
+        s3_mc "Well, you should have hid somewhere better to do it."
+        s3_mc "Get up, you two."
+    if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+        ciaran "Aw, I thought we were doing good."
+        s3_mc "You were talking."
+        aj "Yeah, well, we got bored."
+        ciaran "Yeah, you took ages."
+        s3_mc "How is this now my fault? Get out of there, you two."
+    if s3_li == "Ciaran":
+        tai "Would have done if it weren't for this meddling kid."
+        s3_mc "You're just a sore loser. Get out of there."
+    "They get up from under the beanbags, dusting themselves off."
+    s3_mc "You should head over to the lawn with the rest of the losers."
+    s3_mc "Losers."
+    if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+        ciaran "You are not a good winner, [s3_name]."
+        aj "Give us another chance to hide, will you? Please? It's my birthday!"
+        ciaran "Pretty please?"
+        aj "With a blueberry?"
+        s3_mc "Isn't it a cherry?"
+        aj "I prefer a blueberry."
+    if s3_li == "AJ" or s3_li == "Yasmin":
+        ciaran "You are not a good winner, [s3_name]."
+        tai "C'mon, give us another chance to hide."
+        s3_mc "So you can go off and canoodle again?"
+        tai "'Canoodle'? Are you eighty?"
+    if s3_li == "Ciaran":
+        aj "[s3_name], I'm hurt."
+        aj "For that insult, you must give us another turn."
+        tai "Yeah, let us hide again! Please?"
+        aj "It's my birthday..."
+    
+    # CHOICE
+    menu:
+        "Shall I give them another chance?"
+        "Yes":
+            s3_mc "Fine, but only one more."
+            if s3_li == "Ciaran":
+                tai "Yay!" #(you get 😍 with Tai)
+            else:
+                ciaran "Yay!" #(you get 😍 with Ciaran)
+            if s3_li != "AJ" and s3_li != "Yasmin":
+                aj "Thanks, [s3_li]. I'll consider this my birthday present."
+        "No":
+            s3_mc "No one else is getting a second chance."
+            s3_mc "It wouldn't be fair."
+            if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+                ciaran "True. But consider this..."
+            else:
+                tai "True. But consider this..."
+        "Do you understand the game?":
+            s3_mc "The whole point is you hide, then you get caught."
+            s3_mc "That's the game. No second chances."
+            if s3_li != "Yasmin" and s3_li != "AJ" and s3_li != "Ciaran":
+                ciaran "You're right, [s3_mc]."
+                ciaran "But consider this..."
+            else:
+                tai "You're right, [s3_mc]."
+                tai "But consider this..."
+
+    "The two of them bolt away gleefully before you can say anything else."
+    thought "I guess they took that second chance anyway."
+    "You roll your eyes."
+    thought "Children."
+    "You hear a noise from over by the Villa."
+    thought "Maybe I should investigate that..."
+
+    return
 
 
 
@@ -2234,26 +1110,32 @@
 # ## Episode 9 Part 3
 # #########################################################################
 
-# "Welcome back!"
-# "Previously on Love Island, the games for AJ's birthday began with Hide and Seek..."
-# "I last played Hide and Seek on a blind date."
-# "She found me in the car park after an hour."
-# "But only because she thought I'd left!"
+label s3e9p2:
+    scene sand with dissolve
+    $ on_screen = []
+
+    show screen day_title(9, 2) with Pause(4)
+    hide screen day_title with dissolve
+    "Welcome back!"
+    "Previously on Love Island, the games for AJ's birthday began with Hide and Seek..."
+    "I last played Hide and Seek on a blind date."
+    "She found me in the car park after an hour."
+    "But only because she thought I'd left!"
 # "MC was quicker finding Rafi/Lily..."
 # R/L: I've been wanting to meet you for ages, MC. Watching you on telly, I knew we'd get along.
-# s3_mc "Oh yeah? What is it about me?"
-# "And up today!"
-# "A challenge will reveal secrets..."
+    s3_mc "Oh yeah? What is it about me?"
+    "And up today!"
+    "A challenge will reveal secrets..."
 # R/L: So whose mum thinks someone is the sexiest Islander?
-# "But something's fishy..."
-# genevieve "My poor hair!"
-# s3_mc "This is just like those games at the funfair!"
-# "Looks like our Islanders are going to have a whale of a time."
+    "But something's fishy..."
+    genevieve "My poor hair!"
+    s3_mc "This is just like those games at the funfair!"
+    "Looks like our Islanders are going to have a whale of a time."
 
-# Rafi and Lily wait at the challenge stage, both holding fishing rods.
-# Elladine looks nervous, but Nicky puts an arm around her shoulder and she snuggles close.
-# LI links arms with you.
-# As you approach, Lily/Rafi winks LI, who smiles back.
+    "Rafi and Lily wait at the challenge stage, both holding fishing rods."
+    "Elladine looks nervous, but Nicky puts an arm around her shoulder and she snuggles close."
+    "[s3_li] links arms with you."
+# As you approach, Lily/Rafi winks at LI, who smiles back.
 # thought "Is Lily/Rafi grafting on LI?"
 # thought "Right under my nose?"
 # Rafi/Lily flashes a winning smile at you.

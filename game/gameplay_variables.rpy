@@ -370,5 +370,12 @@ default s3e9p1_fate = False
 # s3e9p1_bottom_of_heart (bool)
 default s3e9p1_bottom_of_heart = False
 
+## Episode 9, Part 2
+# s3e9p2_fart (bool)
+default s3e9p2_fart = False
+# s3e9p2_ghost (bool)
+default s3e9p2_ghost = False
+# s3e9p2_visited (str list) ["bedroom", "hideaway", "lounge", "beanbags"]
+default s3e9p2_visited = []
 
 
